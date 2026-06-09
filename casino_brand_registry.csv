@@ -1,0 +1,137 @@
+grupo,marca,dominio,url,tipo,risco_status,jurisdicao_licenca,numero_licenca,operador,status_br,padrao_tld,sinal,recomendacao
+A-licenciada,Betano,www.betano.bet.br,https://www.betano.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.betano.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Bet365,www.bet365.bet.br,https://www.bet365.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.bet365.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Blaze,blaze.bet.br,https://blaze.bet.br/pt/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,KTO,www.kto.bet.br,https://www.kto.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.kto.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,EstrelaBet,www.estrelabet.bet.br,https://www.estrelabet.bet.br/pb,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.estrelabet.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Sportingbet,www.sportingbet.bet.br,https://www.sportingbet.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.sportingbet.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Pixbet,pix.bet.br,https://pix.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Betnacional,betnacional.bet.br,https://betnacional.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Esportes da Sorte,m.esportesdasorte.bet.br,https://m.esportesdasorte.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.esportesdasorte.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Superbet,superbet.bet.br,https://superbet.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Novibet,www.novibet.bet.br,https://www.novibet.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.novibet.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Vai de Bet,m.vaidebet.bet.br,https://m.vaidebet.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.vaidebet.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Galera.bet,www.galera.bet.br,https://www.galera.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.galera.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Brazino777,www.brazino777.bet.br,https://www.brazino777.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.brazino777.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Bet7k,7k.bet.br,https://7k.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,F12.bet,f12.bet.br,https://f12.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Betfair,www.betfair.bet.br,https://www.betfair.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.betfair.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Stake,stake.bet.br,https://stake.bet.br/,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.bet.br,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Betsson,www.betsson.com,https://www.betsson.com/br/casino,oficial,official,Brasil SPA/MF,.bet.br,,AUTORIZADO,.betsson.com,dominio oficial,Dominio legitimo (.bet.br) — referencia
+A-licenciada,Betano,betanoda.com,https://betanoda.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,mimetiza betano.com,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Betano,betano.cassino.br.com,https://betano.cassino.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.cassino.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Bet365,365betcasino.net,https://365betcasino.net/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.net,typosquat 365bet + bonus,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Bet365,bet365-online.com.br,https://bet365-online.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Bet365,bet365s.com.br,https://bet365s.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,typosquat plural,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Blaze,blazeapostasonline.com.br,https://blazeapostasonline.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,alega 'Site Oficial',Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Blaze,blazeaposta.org,https://blazeaposta.org/,afiliado,LOW,,,,NAO AUTORIZADO,.org,afiliado/review,Provavel afiliado/legado; monitorar
+A-licenciada,Blaze,blaze-apostas-br.com,https://blaze-apostas-br.com/,afiliado,LOW,,,,NAO AUTORIZADO,.com,afiliado/review,Provavel afiliado/legado; monitorar
+A-licenciada,Blaze,blazeaposta.com,https://blazeaposta.com/,afiliado,LOW,,,,NAO AUTORIZADO,.com,afiliado/review,Provavel afiliado/legado; monitorar
+A-licenciada,Blaze,blazebrasil.com.br,https://blazebrasil.com.br/br/,afiliado,LOW,,,,NAO AUTORIZADO,.com.br,afiliado/review,Provavel afiliado/legado; monitorar
+A-licenciada,KTO,kto.uk.com,https://kto.uk.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.uk.com,'Plataforma Oficial' em .uk.com,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,KTO,kto-brasil-br.com,https://kto-brasil-br.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,alega oficial + 'Aposta Gratis',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,KTO,kto.jogo.com.br,https://kto.jogo.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.jogo.com.br,alega 'Bet Autorizada kto.bet.br',Verificar afiliacao x impersonacao; monitorar
+A-licenciada,KTO,kto-bet.br.com,https://kto-bet.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,EstrelaBet,www.estrelabetoficial.com.br,https://www.estrelabetoficial.com.br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.estrelabetoficial.com.br,usa 'oficial' + login,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,EstrelaBet,br-estrelabet.com,https://br-estrelabet.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,alega 'Oficiais',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,EstrelaBet,casinosucesso.com,https://casinosucesso.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com,alega 'oficial site',Verificar afiliacao x impersonacao; monitorar
+A-licenciada,EstrelaBet,estrelabet.com,https://estrelabet.com/,afiliado,LOW,,,,NAO AUTORIZADO,.com,legado/intl,Provavel afiliado/legado; monitorar
+A-licenciada,Sportingbet,sportingbetn.com,https://sportingbetn.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,typosquat 'sportingbetn',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Sportingbet,sportingbetcasino.com.br,https://sportingbetcasino.com.br/pt-br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com.br,alega 'site oficial',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Sportingbet,sporting-bet.br.com,https://sporting-bet.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Sportingbet,sportingbetbr.com.br,https://sportingbetbr.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Pixbet,pixbet.com,https://pixbet.com/,afiliado,LOW,,,,NAO AUTORIZADO,.com,dominio .com (verificar operador),Provavel afiliado/legado; monitorar
+A-licenciada,Betnacional,betnacionalbrasil.com,https://betnacionalbrasil.com/cadastro.html,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,promete R$5.000 (proibido)->nao licenciado,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Esportes da Sorte,esportesdasortebr.br.com,https://esportesdasortebr.br.com/pt-br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.br.com,'Site Oficial' em br.com,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Esportes da Sorte,esporte-da-sorte.com,https://esporte-da-sorte.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,variacao 'esporte' + bonus R$300,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Esportes da Sorte,esportesdasorte-oficial.com.br,https://esportesdasorte-oficial.com.br/pt-br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com.br,usa 'oficial',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Esportes da Sorte,esportes-da-sortes.com,https://esportes-da-sortes.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,typosquat 'sortes' + 'oficial',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Esportes da Sorte,esportesdasorte.net.br,https://esportesdasorte.net.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.net.br,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Esportes da Sorte,esportesdasorte-brasil.com.br,https://esportesdasorte-brasil.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Esportes da Sorte,esportesdasorte.br.com,https://esportesdasorte.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Superbet,superbet.app.br,https://superbet.app.br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.app.br,'Download Oficial',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Superbet,super-bet.br.com,https://super-bet.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Superbet,superbetapp.net,https://superbetapp.net/,clone/lookalike,MED,,,,NAO AUTORIZADO,.net,marca+app,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Novibet,novibeth.com,https://novibeth.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,typosquat + bonus R$5.000,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Novibet,novibet-site.com.br,https://novibet-site.com.br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com.br,typosquat farm Novbet/Movibet,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Vai de Bet,vaidebet-brazil.com,https://vaidebet-brazil.com/bonus/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com,bonus + marca,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Vai de Bet,vai-de-bet.br.com,https://vai-de-bet.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Vai de Bet,vaidebetpt.com,https://vaidebetpt.com/,afiliado,LOW,,,,NAO AUTORIZADO,.com,afiliado/intl,Provavel afiliado/legado; monitorar
+A-licenciada,Galera.bet,galerabetbrasil.com,https://galerabetbrasil.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,'Site Oficial' + login,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Galera.bet,galerabet-br.com.br,https://galerabet-br.com.br/pt-br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Galera.bet,galera.cassino.br.com,https://galera.cassino.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.cassino.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Galera.bet,galerabetapostas.com.br,https://galerabetapostas.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Galera.bet,galerabet-casino-brazil.com,https://galerabet-casino-brazil.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Galera.bet,galera-bet-apostas.com,https://galera-bet-apostas.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Galera.bet,galera.bet,https://galera.bet/,afiliado,LOW,,,,NAO AUTORIZADO,.bet,legado/intl,Provavel afiliado/legado; monitorar
+A-licenciada,Brazino777,www.brazino777-oficial.com.br,https://www.brazino777-oficial.com.br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.brazino777-oficial.com.br,usa 'oficial' + R$4.000,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Brazino777,brazino777br.com.br,https://brazino777br.com.br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com.br,marca + bonus R$4.000,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Brazino777,brazinos777.com.br,https://brazinos777.com.br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com.br,typosquat plural,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Brazino777,brazino-777.br.com,https://brazino-777.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Brazino777,www.brazinoonline.com.br,https://www.brazinoonline.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.brazinoonline.com.br,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Brazino777,brazino777.cassino.br.com,https://brazino777.cassino.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.cassino.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Brazino777,www.b777.com.br,https://www.b777.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.b777.com.br,abreviacao b777,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Brazino777,www.brazino777.com.br,https://www.brazino777.com.br/,afiliado,LOW,,,,NAO AUTORIZADO,.brazino777.com.br,legado .com.br,Provavel afiliado/legado; monitorar
+A-licenciada,Bet7k,bet7kbr.com,https://bet7kbr.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,bonus R$7000,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Bet7k,www-bet7k.com,https://www-bet7k.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com,typosquat 'www-',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Bet7k,bet7k-brazil.com.br,https://bet7k-brazil.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Bet7k,7k.cassino.br.com,https://7k.cassino.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.cassino.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Bet7k,bet7k.com,https://bet7k.com/,afiliado,LOW,,,,NAO AUTORIZADO,.com,legado/intl,Provavel afiliado/legado; monitorar
+A-licenciada,F12.bet,f12betbrasil.com.br,https://f12betbrasil.com.br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com.br,bonus R$500,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,F12.bet,f12bet.net.br,https://f12bet.net.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.net.br,alega 'Site Oficial',Verificar afiliacao x impersonacao; monitorar
+A-licenciada,F12.bet,f12.cassino.br.com,https://f12.cassino.br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.cassino.br.com,subdominio br.com,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,F12.bet,f12-bet-brasil-br.com,https://f12-bet-brasil-br.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,F12.bet,www.f12-bet.com,https://www.f12-bet.com/,afiliado,LOW,,,,NAO AUTORIZADO,.f12-bet.com,legado/intl,Provavel afiliado/legado; monitorar
+A-licenciada,Betfair,www.betfairss.com,https://www.betfairss.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.betfairss.com,typosquat 'betfairss',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Betfair,betfairbrasil.com.br,https://betfairbrasil.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,alega 'Oficial',Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Betfair,betfaircom.net,https://betfaircom.net/,clone/lookalike,MED,,,,NAO AUTORIZADO,.net,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Betfair,betfair.cat,https://betfair.cat/,clone/lookalike,MED,,,,NAO AUTORIZADO,.cat,TLD .cat,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Stake,stake.anjeangola.org,https://stake.anjeangola.org/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.anjeangola.org,dominio aleatorio como 'Guia Oficial',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Stake,stakecasino.com.br,https://stakecasino.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,alega 'site oficial login',Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Stake,stake-brazil-casino.com,https://stake-brazil-casino.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Stake,stake.app.br,https://stake.app.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.app.br,marca+app,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Stake,stake-brazil.net,https://stake-brazil.net/,clone/lookalike,MED,,,,NAO AUTORIZADO,.net,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,1xBet,1xbet1.com.br,https://1xbet1.com.br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com.br,nao licenciado + bonus,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,1xBet,1xbetonline.com.br,https://1xbetonline.com.br/pt-br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com.br,nao licenciado + 'oficial',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,1xBet,1xbet.br.com,https://1xbet.br.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.br.com,subdominio br.com + bonus,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,1xBet,1xbetsbrasil.com.br,https://1xbetsbrasil.com.br/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.com.br,typosquat plural,Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Betsson,betssons.br.com,https://betssons.br.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.br.com,bonus EUR250 + 'oficial',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Betsson,betsson-brasil.br.com,https://betsson-brasil.br.com/,clone/lookalike,HIGH,,,,NAO AUTORIZADO,.br.com,'Site oficial',Prioridade takedown: WHOIS/redirect/forms; reportar registrador + SPA-MF/Anatel
+A-licenciada,Betsson,betssonbrasil.com.br,https://betssonbrasil.com.br/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com.br,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+A-licenciada,Betsson,betssoncassinobrasil.com,https://betssoncassinobrasil.com/,clone/lookalike,MED,,,,NAO AUTORIZADO,.com,marca+sufixo,Verificar afiliacao x impersonacao; monitorar
+B-offshore,1win,1win.com.br,https://1win.com.br/,offshore,offshore_grey,Curacao,8048/JAZ2018-040,1win N.V.,GREY,.com.br,bonus 500%/R$5.000,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,1win,1winpro.com.br,https://1winpro.com.br/pt-br/,offshore,offshore_grey,Curacao,8048/JAZ2018-040,1win N.V.,GREY,.com.br,bonus 500%/R$5.000,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Mostbet,mostbetbrasil.com,https://mostbetbrasil.com/,offshore,offshore_grey,Curacao,8048/JAZ2016-065,Bizbon N.V.,GREY,.com,bonus R$13 mil,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,1xBet,1xbet.com.br,https://1xbet.com.br/,offshore,offshore_blocked,Curacao,Antillephone,1X Corp N.V.,BLOCKED,.com.br,bloqueado Anatel,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,1xBet,1xbet.br.com,https://1xbet.br.com/,offshore,offshore_blocked,Curacao,Antillephone,1X Corp N.V.,BLOCKED,.br.com,bloqueado Anatel,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,Betwinner,betwinnerbrasil.com.br,https://betwinnerbrasil.com.br/,offshore,offshore_blocked,Curacao,8048/JAZ,Prevailer B.V.,BLOCKED,.com.br,suspenso out/2024,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,22Bet,22bett.com.br,https://22bett.com.br/,offshore,offshore_blocked,Curacao,8048/JAZ,TechSolutions Group N.V.,BLOCKED,.com.br,suspenso out/2024,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,22Bet,brasil-22bet.com.br,https://brasil-22bet.com.br/,offshore,offshore_blocked,Curacao,8048/JAZ,TechSolutions Group N.V.,BLOCKED,.com.br,suspenso out/2024,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,Melbet,melbetbr.com,https://melbetbr.com/,offshore,offshore_grey,Curacao,8048/JAZ2020-060,Tutkia Ltd,GREY,.com,bonus R$1.200,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Melbet,melbets.com.br,https://melbets.com.br/,offshore,offshore_grey,Curacao,8048/JAZ2020-060,Tutkia Ltd,GREY,.com.br,bonus R$1.200,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Parimatch,parimatch-apostas.com.br,https://parimatch-apostas.com.br/pt-br/,offshore,offshore_grey,Curacao,1668/JAZ (OGL/2024/402),Pari-Match N.V.,GREY,.com.br,bonus R$500,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Parimatch,parimatchs.com.br,https://parimatchs.com.br/,offshore,offshore_grey,Curacao,1668/JAZ (OGL/2024/402),Pari-Match N.V.,GREY,.com.br,bonus R$500,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Pin-Up,pin-up-casino.com,https://pin-up-casino.com/pt/,offshore,offshore_grey,Curacao,8048/JAZ,Carletta N.V.,GREY,.com,bonus R$30 mil,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Pin-Up,pinupbet.com.br,https://pinupbet.com.br/,offshore,offshore_grey,Curacao,8048/JAZ,Carletta N.V.,GREY,.com.br,bonus R$30 mil,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Megapari,megapari.net.br,https://megapari.net.br/,offshore,offshore_grey,Curacao,8048/JAZ,Antillephone N.V.,GREY,.net.br,bonus R$9.150,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,LeonBet,leon.bet,https://leon.bet/,offshore,offshore_blocked,Curacao,8048/JAZ2016-028,Curacao Gaming Commission,BLOCKED,.bet,fora do ar BR,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,LeonBet,leonbet.com.br,https://leonbet.com.br/en/,offshore,offshore_blocked,Curacao,8048/JAZ2016-028,Curacao Gaming Commission,BLOCKED,.com.br,fora do ar BR,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,BC.Game,br.bc1.game,https://br.bc1.game/,offshore,offshore_blocked,Curacao,5536/JAZ (GCB),BlockDance B.V.,BLOCKED,.bc1.game,crypto-only; saida BR,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,BC.Game,bcgame.lat,https://bcgame.lat/,offshore,offshore_blocked,Curacao,5536/JAZ (GCB),BlockDance B.V.,BLOCKED,.lat,crypto-only; saida BR,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,Roobet,roobet.com,https://roobet.com/pt/,offshore,offshore_grey,Curacao,OGL/2024/687/0427 (CGA),Raw Entertainment B.V.,GREY,.com,crypto,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Roobet,roobet.br.com,https://roobet.br.com/,offshore,offshore_grey,Curacao,OGL/2024/687/0427 (CGA),Raw Entertainment B.V.,GREY,.br.com,crypto,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,BetFury,bf1.io,https://bf1.io/,offshore,offshore_grey,Curacao,#365/JAZ,Universe Games B.V.,GREY,.io,crypto; bonus 590%,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,BetFury,betfurycasino.com.br,https://betfurycasino.com.br/,offshore,offshore_grey,Curacao,#365/JAZ,Universe Games B.V.,GREY,.com.br,crypto; bonus 590%,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Bodog,bodogbr.bet,https://bodogbr.bet/,offshore,offshore_blocked,Curacao,1668/JAZ,Connaught Media B.V.,BLOCKED,.bet,suspenso out/2024,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,Bodog,bodog-br.com,https://bodog-br.com/,offshore,offshore_blocked,Curacao,1668/JAZ,Connaught Media B.V.,BLOCKED,.com,suspenso out/2024,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,20Bet,20bet-brasil.com,https://20bet-brasil.com/,offshore,offshore_blocked,Curacao,8048/JAZ,TechSolutions Group N.V.,BLOCKED,.com,suspenso out/2024,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,20Bet,20betsite.com,https://20betsite.com/,offshore,offshore_blocked,Curacao,8048/JAZ,TechSolutions Group N.V.,BLOCKED,.com,suspenso out/2024,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,Linebet,linebet10.com,https://linebet10.com/,offshore,offshore_grey,Curacao,8048/JAZ2016-053 (CGA),Bumblebee Ltd,GREY,.com,bonus + cripto,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,GGBet,gg-bet-brasil.com,https://gg-bet-brasil.com/,offshore,offshore_grey,Curacao,OGL/2024/688/0234,Brivio Ltd,GREY,.com,foco e-sports,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,GGBet,ggbet-br.com.br,https://ggbet-br.com.br/pt-br/,offshore,offshore_grey,Curacao,OGL/2024/688/0234,Brivio Ltd,GREY,.com.br,foco e-sports,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Betobet,betobet-brasil.com,https://betobet-brasil.com/,offshore,offshore_grey,Curacao,1668/JAZ,Counder B.V.,GREY,.com,bonus R$500/R$2.500,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Betobet,betobet.biz,https://betobet.biz/,offshore,offshore_grey,Curacao,1668/JAZ,Counder B.V.,GREY,.biz,bonus R$500/R$2.500,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Cbet,cbet-br.com,https://cbet-br.com/,offshore,offshore_grey,Curacao,#365/JAZ,AK Global N.V.,GREY,.com,crypto,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Cbet,cbet-gg.br.com,https://cbet-gg.br.com/,offshore,offshore_grey,Curacao,#365/JAZ,AK Global N.V.,GREY,.br.com,crypto,Operador sem licenca BR; monitorar / candidato a bloqueio
+B-offshore,Sportaza,sportaza-brasil.com,https://sportaza-brasil.com/,offshore,offshore_blocked,Curacao,8048/JAZ2020-001,Rabidi N.V.,BLOCKED,.com,bloqueado Anatel out/2024,Ja suspenso/bloqueado (Anatel/SPA-MF)
+B-offshore,Sportaza,sportaza.one,https://sportaza.one/casino/,offshore,offshore_blocked,Curacao,8048/JAZ2020-001,Rabidi N.V.,BLOCKED,.one,bloqueado Anatel out/2024,Ja suspenso/bloqueado (Anatel/SPA-MF)
