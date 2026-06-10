@@ -27,7 +27,7 @@ for r in rows:
             removed+=1; continue
     clean.append([b,r["keyword"],v,kd])
 
-clean.sort(key=lambda x:(x[0].lower(),-x[1]))
+clean.sort(key=lambda x:(x[0].lower(),-x[2]))
 with open("brand_keywords_combined.csv","w",newline="",encoding="utf-8") as f:
     w=csv.writer(f); w.writerow(["Brand name","keyword","search volume","KD"]); w.writerows(clean)
 
