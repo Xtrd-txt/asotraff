@@ -1,0 +1,27 @@
+Блок,Параметр,Конкурент (esportesdasorte.net.br),ТЗ (наш сайт)
+ДОМЕН,Тип,EMD local .net.br (бренд у домені),EMD local .com.br/.net.br (точний бренд-матч); 1 з 5 сайтів/бренд
+ДОМЕН,Альтернатива для DR,-,1×*.br.com (успадкований DR90) або дроп DR15-20 як у esporte-da-sorte.com
+СТРУКТУРА,Тип money-сторінки,Article > FAQ (1 потужний хаб),FAQ-хаб (home) + 6-8 внутрішніх
+СТРУКТУРА,Внутрішні сторінки,є (cassino/cadastro/login/app/aposta-ao-vivo/aviator),/cassino /cadastro /bonus /app /login /aviator /ao-vivo (6-8 стор.)
+СТРУКТУРА,Внутрішня перелінковка,присутня,≥200 internal links (медіана winners=239)
+КОНТЕНТ,Обсяг тексту money-page,~10 662 слів,8 000-11 000 слів PT-BR (копіюємо обсяг)
+КОНТЕНТ,FAQ-блок,так (Article>FAQ),12-20 Q&A (під FAQPage schema)
+КОНТЕНТ,Мова,PT-BR,PT-BR
+КОНТЕНТ,Картинки,потрібен краул (onpage_audit.py),"10-20 (лого, скрін cassino, банер бонусу)"
+РОЗМІТКА/МЕТА,Schema,FAQPage (тип SERP=Article>FAQ),FAQPage + Organization + AggregateRating/Review
+РОЗМІТКА/МЕТА,OpenGraph,перевірити краулом,ТАК (og:title/description/image/type)
+РОЗМІТКА/МЕТА,Title-патерн,'Esportes Da Sorte | Jogos E Apostas Online Em Um So Lugar','{Бренд} | Cassino e Apostas Online no Brasil'
+КАНОНІКАЛ/HREFLANG,Canonical,403 на rich-results → перевірити краулом,"SELF-canonical (на себе), НЕ на офіціал .bet.br"
+КАНОНІКАЛ/HREFLANG,hreflang/alternate,перевірити (onpage_audit.py колонка hreflang),pt-BR self-ref; без alternate на чужі домени
+КАНОНІКАЛ/HREFLANG,html lang,перевірити,lang='pt-BR'
+КАНОНІКАЛ/HREFLANG,Манипуляція (ризик),можливий клоакінг Googlebot/canonical-trick,Фіксувати після краулу; не канонікалити на офіціал
+ЛІНКБІЛДИНГ,Всього,272 backlinks / 104 ref-домени (DR2/UR4),Ціль ~250-300 BL / ~100 ref-доменів
+ЛІНКБІЛДИНГ,Тип 1: BR регіон. новини (dofollow),"abrasel.com.br DR70, bpmoney, rondoniagora, spfc.net, otaboanense",45% — контекстні гестпости на BR-новинниках DR30-70
+ЛІНКБІЛДИНГ,Тип 2: Telegram/директорії,"linkdegrupo.com.br, telegrupos.com.br, criativaonline",25% — Telegram-груп директорії / каталоги
+ЛІНКБІЛДИНГ,Тип 3: крауд/профілі/токсик,"fiverr-seo, rank-now.website, atomizelink.icu, bye.fyi",20% крауд/профілі + ~10% дроп/PBN (обережно з токсик)
+ЛІНКБІЛДИНГ,Динаміка (velocity),drip 2024-06 → 2026 (~18-24 міс),"Повільний старт: ~5-10 ref/міс перші 2 міс, далі 15-20/міс, drip 6-12 міс"
+ЛІНКБІЛДИНГ,Анкори,брендові ('esporte da sorte' + варіації),"60% бренд, 25% URL/naked, 15% generic ('site oficial','cassino')"
+ДРОП/301,301-підклейка,-,Опційно: 1-2 додаткові домени 301→money (кейс Betano=31 редірект спрацював)
+МАНИПУЛЯЦІЇ,Перелік,EMD + FAQ-schema + бренд-анкори + шар токсик-лінків; сусіди в SERP юзають .gov.br,Повторити EMD+FAQ+бренд-анкори; .gov.br — окремий вектор (ризиковано)
+KPI,Поточний результат конкурента,"#17 по 'esporte da sorte'(3M), 16 193 трафіку, $21 542",Ціль: top-20 по head за 4-6 міс → push у top-10; 10-20k трафіку/сайт
+KPI,Окупність,-,5 сайтів/бренд; орієнтир — esporte-da-sorte.com (61.8k) як стеля

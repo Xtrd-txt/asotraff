@@ -24,14 +24,29 @@ def audit(url):
     text=re.sub(r"\s+"," ",s.get_text(" ")).strip()
     canon=s.find("link",rel=lambda x:x and "canonical" in x)
     og=s.find("meta",property=lambda x:x and x.startswith("og:"))
-    ld=s.find("script",type="application/ld+json") or s.find(attrs={"itemtype":True})
+    # schema @type(s)
+    import json as _j
+    types=set()
+    for sc in BeautifulSoup(r.text,"html.parser").find_all("script",type="application/ld+json"):
+        try:
+            data=_j.loads(sc.string or "{}")
+            for obj in (data if isinstance(data,list) else [data]):
+                t=obj.get("@type") if isinstance(obj,dict) else None
+                if t: types.add(t if isinstance(t,str) else ",".join(t))
+        except: pass
+    # hreflang/alternate + html lang
+    hrefs=[(l.get("hreflang"),l.get("href")) for l in BeautifulSoup(r.text,"html.parser").find_all("link",rel="alternate") if l.get("hreflang")]
+    htmltag=BeautifulSoup(r.text,"html.parser").find("html")
+    lang=htmltag.get("lang","") if htmltag else ""
     h1=s.find("h1")
     return info | dict(
         words=len(text.split()),
         images=len(s.find_all("img")),
         opengraph="yes" if og else "no",
-        schema="yes" if ld else "no",
+        schema=";".join(sorted(types)) if types else "no",
         canonical=canon["href"] if canon and canon.has_attr("href") else "",
+        hreflang=" | ".join(f"{h}:{u}" for h,u in hrefs) if hrefs else "",
+        html_lang=lang,
         h1=(h1.get_text(strip=True)[:60] if h1 else ""))
 
 rows=[]
@@ -41,10 +56,11 @@ with open("Sat_Br_final.csv",encoding="utf-8") as f:
         try: a=audit(u)
         except Exception as e: a=dict(status="ERR",redirect_to=str(e)[:60],words=0,images=0,opengraph="",schema="",canonical="",h1="")
         rows.append([r["Brand name"],r["sat url"],a["status"],a["redirect_to"],
-                     a["words"],a["images"],a["opengraph"],a["schema"],a["canonical"],a["h1"]])
-        print(r["sat url"],a["status"],"words=",a["words"],"img=",a["images"],"og=",a["opengraph"],"schema=",a["schema"])
+                     a["words"],a["images"],a["opengraph"],a["schema"],a["canonical"],
+                     a.get("hreflang",""),a.get("html_lang",""),a["h1"]])
+        print(r["sat url"],a["status"],"words=",a["words"],"img=",a["images"],"og=",a["opengraph"],"schema=",a["schema"],"canon=",a["canonical"][:40])
 
 with open("onpage_audit.csv","w",newline="",encoding="utf-8") as f:
     w=csv.writer(f); w.writerow(["brand","sat url","http_status","redirect_to(301/302)",
-        "words","images","opengraph","schema_markup","canonical","h1"]); w.writerows(rows)
+        "words","images","opengraph","schema_markup","canonical","hreflang_alternate","html_lang","h1"]); w.writerows(rows)
 print("\n-> onpage_audit.csv")
