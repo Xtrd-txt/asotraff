@@ -15,15 +15,14 @@ clean=[]; removed=0; moved=0
 for r in rows:
     b=r["Brand name"]; kw=r["keyword"].lower(); v=int(r["search volume"]); kd=r["KD"]
     if b=="777 Casino":
-        # reatribui se contem outra marca
         rb=next((OTHER_BRANDS[t] for t in OTHER_BRANDS if t in kw),None)
         if rb: clean.append([rb,r["keyword"],v,kd]); moved+=1; continue
-        words=set(kw.replace("."," ").replace("-"," ").split())
-        if words & JUNK:  # contem modificador de outro cassino -> lixo
-            removed+=1; continue
-        # mantem so se '777' colado a casino/cassino (nucleo da marca)
-        if not any(x in kw for x in ("777 casino","777casino","777 cassino","777cassino",
-                                     "casino 777","cassino 777","777 bet","777bet")):
+        # '777' e nome global -> manter SO nucleo PT-BR (whitelist de tokens)
+        ALLOWED={"777","777casino","777cassino","casino","cassino","bet","login","online","app",
+                 "br","brasil","gratis","grátis","bonus","bônus","cadastro","baixar","jogo","jogos",
+                 "jogar","mobile","vip","slot","slots","de","do","da"}
+        words=set(w for w in kw.replace("."," ").replace("-"," ").split() if w)
+        if words-ALLOWED:  # tem token estrangeiro/prefixo/junk -> remove
             removed+=1; continue
     clean.append([b,r["keyword"],v,kd])
 
