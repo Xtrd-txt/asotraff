@@ -1,49 +1,904 @@
-Brand name,keyword,search volume
-13Bet,13 bet casino,800
-777 Casino,777 casino,8900
-Aposta Ganha,aposta ganha rodadas grátis,10
-Betino,betino,3500
-Betsson,betsson brasil,1300
-Betsson,betsson baixar,250
-Betsson,aplicativo betsson,150
-Betsson,baixar betsson,150
-Betsson,betsson br,100
-Betsson,betsson brasil apk,100
-Betsson,betsson baixar em português,60
-Cassino Pix,plataforma cassino pix,700
-CassinoBet,cassinobet,35000
-CassinoBet,cassino bet br,25000
-CassinoBet,cassino.bet,4100
-CassinoBet,cassino bets,1700
-CassinoBet,um cassino bet,700
-CassinoBet,jogos cassino bet,600
-CassinoBet,jogo cassino bet,450
-EJ Cassino,ejcassino,12000
-FG Cassino,fg jogo cassino,600
-Jogo da Abelha,jogo da abelha cassino,900
-Jogoman,jogoman,2100
-NetBet,netbet brasil,250
-NetBet,netbet casino bonus,200
-NetBet,netbet br,200
-NetBet,netbet apostas,200
-NetBet,br.netbet,90
-NetBet,aplicativo netbet,60
-NetBet,netbet paga,50
-NetBet,netbet saque,10
-NetBet,netbet brazil,0
-NetBet,netbet paga?,0
-NetBet,netbet saque pix,0
-NetBet,apostas netbet,0
-NetBet,netbet deposito,0
-NN55,nn55.com plataforma,1100
-NN55,nn55 plataforma,600
-NN55,nn55 .com,30
-NN55,nn55 plataforma de jogos,20
-OCS Bet,ocs bet net,6600
-Orozino,orozino,3900
-Plataforma Ouro,plataforma ouro,800
-Portal Noca,portal noca,700
-Score Cassino,score cassino,3100
-Score Cassino,cassino scores,2800
-Score Cassino,cassino escore,800
-Slot Agora,slot agora,2200
+Brand name,keyword,search volume,KD
+13Bet,13 bet casino,800,30
+777 Casino,777 casino,8900,3
+777 Casino,cassino 777,5500,40
+777 Casino,777 casino login,2000,71
+777 Casino,777 cassino,1800,1
+777 Casino,win 777 casino,1300,58
+777 Casino,bet 777 casino,1300,55
+777 Casino,casino 777,1200,48
+777 Casino,slots 777 casino,700,55
+777 Casino,777 casino bet,600,0
+777 Casino,love 777 casino,500,0
+777 Casino,casino 777 app,400,30
+777 Casino,club 777 casino login,300,0
+777 Casino,brazino 777 casino,250,38
+777 Casino,hot 777 casino,250,49
+777 Casino,casino 777 bet,250,28
+777 Casino,vip 777 casino,200,0
+777 Casino,777 casino online,200,57
+777 Casino,zzz 777 casino,200,58
+777 Casino,777 casino app,200,3
+777 Casino,777 casino vip,200,0
+777 Casino,777cassino,200,0
+777 Casino,brazilian 777 casino,150,50
+777 Casino,rush 777 casino login,150,0
+777 Casino,lucky 777 casino login,150,0
+777 Casino,rbd 777 casino,150,0
+777 Casino,br 777 casino,150,64
+777 Casino,slot 777 casino online,100,56
+777 Casino,cc 777 casino,100,0
+777 Casino,777 casino 50 free spins,100,0
+777 Casino,club 777 casino club 777 casino,100,0
+777 Casino,tigre 777 casino,100,60
+777 Casino,love 777 casino login,100,0
+777 Casino,casino 777 online,90,5
+777 Casino,casino 777 grátis,90,5
+777 Casino,casino 777 slots,90,31
+777 Casino,777 casino review,90,65
+777 Casino,win casino 777,90,0
+777 Casino,club 777 casino,90,0
+777 Casino,jogo cassino 777,90,0
+777 Casino,777 casino slots,80,1
+777 Casino,777 casino bonus,80,61
+777 Casino,big win 777 casino,80,0
+777 Casino,brasil 777 casino login,80,0
+777 Casino,777 casino vegas slots games,80,0
+777 Casino,casino 777 bônus,80,0
+777 Casino,brasil 777 casino no deposit bonus,70,0
+777 Casino,slot 777 casino,70,38
+777 Casino,gate 777 casino,70,0
+777 Casino,777 casino login register,70,0
+777 Casino,slots 777 casino bet,70,31
+777 Casino,777 casino slot,70,31
+777 Casino,casino 777 bonus,70,60
+777 Casino,seven 777 casino,60,0
+777 Casino,777 casino bono sin depósito,50,0
+777 Casino,million 777 casino,50,0
+777 Casino,nine casino 777,50,0
+777 Casino,slot casino 777,50,7
+777 Casino,bet 777 casino login,50,0
+777 Casino,sun casino 777,50,17
+777 Casino,jogo de casino 777,50,1
+777 Casino,hot 777 casino login,40,0
+777 Casino,jogos casino 777,40,3
+777 Casino,777 casino slot machines,40,0
+777 Casino,wj 777 casino,40,0
+777 Casino,ff 777 casino login,40,0
+777 Casino,www 777 casino,40,0
+777 Casino,ice casino 777,40,0
+777 Casino,vip 777 casino login,40,0
+777 Casino,777 casino gratis,40,0
+777 Casino,tj 777 casino login,40,0
+777 Casino,777 casino real money,40,0
+777 Casino,slot cassino 777,40,28
+777 Casino,777 casino mobile,30,3
+777 Casino,jet casino 777,30,0
+777 Casino,super jili 777 casino login,30,0
+777 Casino,kkk slot 777 casino login,30,0
+777 Casino,casino 777 review,30,0
+777 Casino,777 casino app login,30,0
+777 Casino,kkk slots 777 casino,30,35
+777 Casino,bmw 777 casino login,30,0
+777 Casino,online casino 777,30,0
+777 Casino,777 casino games,30,33
+777 Casino,rio 777 casino apk,30,0
+777 Casino,royal casino 777,30,0
+777 Casino,queen 777 casino,30,29
+777 Casino,lobo 777 casino,30,0
+777 Casino,gate 777 casino bonus,30,0
+777 Casino,f 777 casino,30,0
+777 Casino,777 casino no deposit bonus,30,0
+777 Casino,p 777 casino,30,0
+777 Casino,jj 777 casino login,30,0
+777 Casino,stake casino 777,30,0
+777 Casino,spin 777 casino,30,66
+777 Casino,slots casino 777,30,39
+777 Casino,brazino casino 777,30,0
+777 Casino,cash 777 casino,30,0
+777 Casino,slots real casino 777,30,49
+777 Casino,game 777 casino,30,30
+777 Casino,777 casino nl,30,58
+777 Casino,casino 777 slot,30,3
+777 Casino,lucky 777 casino,20,59
+777 Casino,www 777 casino login,20,0
+777 Casino,casino 777 casino,20,0
+777 Casino,ff 777 casino login app,20,0
+777 Casino,win 777 casino login,20,0
+777 Casino,oxxo 777 casino,20,0
+777 Casino,fortune rabbit 777 casino,20,0
+777 Casino,777 casino slot machine,20,0
+777 Casino,cg 777 casino login,20,0
+777 Casino,777 casino online review,20,0
+777 Casino,casino 777 be,20,78
+777 Casino,aaa 777 casino,20,0
+777 Casino,777 casino bonuses,20,0
+777 Casino,sw 777 casino,20,0
+777 Casino,casino 777 bono sin depósito,20,0
+777 Casino,jj 777 casino,20,0
+777 Casino,europa 777 casino,20,0
+777 Casino,tiger casino 777,20,0
+777 Casino,777 casino free spins,20,0
+777 Casino,gate 777 casino app,20,0
+777 Casino,ff 777 casino,20,0
+777 Casino,777 casino promo code,20,0
+777 Casino,casino 777 login,20,0
+777 Casino,queen 777 casino login,20,0
+777 Casino,brasil 777 casino,20,0
+777 Casino,slots 777 casino dinero real,20,0
+777 Casino,vip 777 casino real money,20,0
+777 Casino,triple 777 casino y bar la concepción,20,0
+777 Casino,hhh 777 casino,20,0
+777 Casino,777 casino bonus code,20,71
+777 Casino,plinko 777 casino,20,0
+777 Casino,casino 777.be,20,0
+777 Casino,cassino 777 slot,20,29
+777 Casino,huuuge casino 777 slots games,10,0
+777 Casino,happy casino 777,10,0
+777 Casino,hoy 777 casino,10,0
+777 Casino,cc 777 casino login,10,0
+777 Casino,vegas casino 777,10,0
+777 Casino,777 casino australia,10,0
+777 Casino,class 777 casino,10,0
+777 Casino,777 casino canada,10,0
+777 Casino,wild 777 casino,10,0
+777 Casino,777 casino apk,10,0
+777 Casino,jollibee 777 casino,10,0
+777 Casino,bonus gratuit casino 777,10,0
+777 Casino,777 casino significado,10,0
+777 Casino,gate 777 casino no deposit bonus,10,0
+777 Casino,royal slots 777 casino games,10,0
+777 Casino,777 casino bono sin deposito,10,0
+777 Casino,jili 777 casino,10,0
+777 Casino,american 777 casino,10,0
+777 Casino,ad 777 casino,10,0
+777 Casino,casino 777 games,10,0
+777 Casino,hot 777 casino real money,10,0
+777 Casino,verde casino 777,10,0
+777 Casino,online 777 casino,10,0
+777 Casino,free 777 casino slots,10,0
+777 Casino,red 777 casino,10,0
+777 Casino,777 casino inloggen,10,0
+777 Casino,estrella 777 casino online,10,0
+777 Casino,sector 777 casino login,10,0
+777 Casino,code promo casino 777,10,0
+777 Casino,casino 777.com,10,0
+777 Casino,juwa casino 777 online,10,0
+777 Casino,lucky 777 casino login register,10,0
+777 Casino,flamingo 777 casino login,10,0
+777 Casino,777 casino españa,10,0
+777 Casino,tiger casino 777 login,10,0
+777 Casino,top 777 casino,10,0
+777 Casino,brazil 777 casino,10,0
+777 Casino,casino 777 uitbetaling,10,0
+777 Casino,canada 777 casino real money,10,0
+777 Casino,gama 777 casino,10,0
+777 Casino,wj casino 777 login,10,0
+777 Casino,code bonus sans depot casino 777,10,0
+777 Casino,lucky 777 casino real money,10,0
+777 Casino,casino 777 gratis spins,10,0
+777 Casino,casino 777 avis,10,0
+777 Casino,bonus 777 casino,10,0
+777 Casino,vip casino 777,10,71
+777 Casino,777 casino ua,10,0
+777 Casino,casino 777 bonus sans depot,10,55
+777 Casino,casino 777.nl,10,0
+777 Casino,777 casino ch,10,0
+777 Casino,www 777 casino login register,10,0
+777 Casino,777 casino game,10,0
+777 Casino,casino 777 original,10,0
+777 Casino,777 casino login no deposit bonus,10,0
+777 Casino,casino 777 gutscheincode,10,0
+777 Casino,777 casino 21 euro gratis,10,0
+777 Casino,games 777 casino,10,54
+777 Casino,pin up casino 777,10,0
+777 Casino,plataforma de jogos 777 casino,10,0
+777 Casino,777 casino roulette,10,0
+777 Casino,gate 777 casino mobile,10,0
+777 Casino,a 777 casino,10,0
+777 Casino,vult 777 casino,10,0
+777 Casino,slots 777 casino free,10,0
+777 Casino,mega slots: 777 casino games,10,0
+777 Casino,777 casino register,10,0
+777 Casino,real 777 casino,10,0
+777 Casino,casino 777 promotiecode,10,0
+777 Casino,777 casino en ligne,10,0
+777 Casino,777 casino philippines,10,0
+777 Casino,777 casino erfahrungen,10,0
+777 Casino,777 casino paysafecard,10,0
+777 Casino,rush 777 casino,10,0
+777 Casino,admiral 777 casino,10,0
+777 Casino,web casino 777,10,0
+777 Casino,casino 777 sport,10,0
+777 Casino,gate 777 casino bonus code,10,0
+777 Casino,lion 777 casino,10,0
+777 Casino,777 casino no deposit bonus codes,10,0
+777 Casino,gate 777 casino promo code,10,0
+777 Casino,estrella 777 casino,10,0
+777 Casino,casino 777 nederland,10,0
+777 Casino,777 casino nz,10,0
+777 Casino,route 777 casino,10,0
+777 Casino,jeux casino 777 machines a sous gratuites,10,0
+777 Casino,777 casino einzahlung,10,0
+777 Casino,casino 777 game,10,0
+777 Casino,europa 777 casino login,10,0
+777 Casino,mxn 777 casino,10,0
+777 Casino,live 777 casino,10,0
+777 Casino,fff 777 casino login,10,0
+777 Casino,plinko casino 777,10,0
+777 Casino,777 casino be,10,65
+777 Casino,mega casino 777,10,0
+777 Casino,777 casino nederland,10,0
+777 Casino,777 casino app download,10,0
+777 Casino,sector 777 casino,10,0
+777 Casino,ppp 777 casino,10,0
+777 Casino,blaze casino 777,10,0
+777 Casino,lucky casino 777,10,0
+777 Casino,777 casino reviews,10,0
+777 Casino,diamond 777 casino login,10,0
+777 Casino,777 casino 21 free,10,0
+777 Casino,wild casino 777,10,0
+777 Casino,777 casino online game,10,0
+777 Casino,777 casino live,10,0
+777 Casino,europa 777 casino no deposit bonus,10,0
+777 Casino,jogo 777 casino,10,0
+777 Casino,casino 777 schweiz,10,0
+777 Casino,casino 777 gratuit,10,0
+777 Casino,casino 777 gratis,10,0
+777 Casino,empire 777 casino,10,0
+777 Casino,application casino 777,10,0
+777 Casino,f-777 casino,10,0
+777 Casino,casino 777 free spins,10,0
+777 Casino,jackpot 777 casino,10,0
+777 Casino,super 777 casino,10,0
+777 Casino,777 casino bonus ohne einzahlung,10,0
+777 Casino,champion casino 777,10,0
+777 Casino,777 casino tattoo,10,0
+777 Casino,777 casino original,10,0
+777 Casino,casino 777 ch,10,0
+777 Casino,777 casino davos,10,0
+777 Casino,bet casino 777,10,0
+777 Casino,777 casino ph,10,0
+777 Casino,bonus casino 777,10,0
+777 Casino,nagad 777 casino,10,0
+777 Casino,thor 777 casino,10,0
+777 Casino,casino 777 club,10,0
+777 Casino,777 casino schweiz,10,0
+777 Casino,gate 777 casino review,10,0
+777 Casino,casino 777 bonus sans dépôt,10,0
+777 Casino,joker 777 casino,10,0
+777 Casino,777 casino – vegas slots games,10,0
+777 Casino,canada 777 casino,10,0
+777 Casino,slots 777 casino 1,10,0
+777 Casino,real casino 777 slots,10,0
+777 Casino,jogo casino 777,10,5
+777 Casino,777 casino 50 free spins promo code,10,0
+777 Casino,777 casino casino,10,0
+777 Casino,world 777 casino,10,0
+777 Casino,games 777 casino login,10,0
+777 Casino,fc 777 casino login,10,0
+777 Casino,slots real casino 777 paga mesmo,10,18
+777 Casino,big 777 casino,10,0
+777 Casino,live casino 777,10,0
+777 Casino,código promocional casino 777,10,0
+777 Casino,777 casino romania,10,0
+777 Casino,777 casino auszahlung,10,0
+777 Casino,nevada 777 casino,10,0
+777 Casino,slots cassino 777,10,30
+777 Casino,super cassino 777,10,43
+Aposta Ganha,aposta ganha rodadas grátis,10,
+Bet365,cassino bet365 bet br,150,0
+Betano,betano,27770000,65
+Betano,betano login,255000,38
+Betano,betano app,233000,70
+Betano,betano bet,59000,73
+Betano,betano entrar,45000,48
+Betano,betano.,36000,65
+Betano,betano brasil,34000,71
+Betano,betano br,32000,81
+Betano,betano casino,27000,80
+Betano,br betano,27000,68
+Betano,betano cassino,21000,76
+Betano,baixar betano,19000,65
+Betano,bolao betano,17000,17
+Betano,betano.com baixar,15000,72
+Betano,betano.bet.br,14000,47
+Betano,aplicativo betano,11000,73
+Betano,app betano,11000,70
+Betano,betano betano,9900,75
+Betano,betano site,8900,73
+Betano,baixa betano,7000,62
+Betano,www betano,6500,78
+Betano,betano app download,6400,69
+Betano,site betano,6100,82
+Betano,betano.com .br,6100,50
+Betano,aplicativo da betano,5600,68
+Betano,www.betano.com .br,5400,76
+Betano,entrar na betano,5200,38
+Betano,cassino betano,5200,70
+Betano,betano.com,5100,77
+Betano,betano esporte,4700,77
+Betano,betano fc,4500,71
+Betano,betano login entrar,4500,68
+Betano,bolão betano,4300,17
+Betano,betano x,4200,53
+Betano,betano apk download,4100,57
+Betano,jogo betano,4100,71
+Betano,esporte betano,4000,71
+Betano,plataforma betano,3900,65
+Betano,www.betano,3800,71
+Betano,betano.bet.br app,3600,66
+Betano,betano ao vivo,3600,72
+Betano,betano cadastro,3500,49
+Betano,baixar aplicativo betano,3500,65
+Betano,betano logo,3400,1
+Betano,site da betano,3400,73
+Betano,betano jogos,3400,64
+Betano,betano casino entrar,3300,72
+Betano,betano brazil,3300,71
+Betano,betão betano,3200,77
+Betano,betano 365,3100,79
+Betano,betano casino ao vivo,3000,80
+Betano,betano site oficial,3000,65
+Betano,login betano,2900,61
+Betano,betano futebol,2800,77
+Betano,betano login entrar na minha conta,2700,77
+Betano,betano login email,2700,70
+Betano,betano bet br,2500,74
+Betano,betano .,2500,66
+Betano,betano aplicativo,2400,57
+Betano,betano .com,2300,76
+Betano,betano oficial,2200,79
+Betano,betano bets,2200,72
+Betano,jogo da betano,2200,62
+Betano,betano .bet.br,2100,56
+Betano,betano hoje,2100,47
+Betano,betano.bet,2100,64
+Betano,betano cassino online,2100,76
+Betano,betano plataforma,2000,76
+Betano,bet betano,2000,74
+Betano,betano app ios,2000,72
+Betano,casino betano,2000,59
+Betano,download betano,1900,65
+Betano,br betano.com,1900,71
+Betano,betano],1800,69
+Betano,entrar betano,1700,76
+Betano,app betano baixar,1700,70
+Betano,betano ca,1700,43
+Betano,betano login app,1700,71
+Betano,betano.com.br login,1700,78
+Betano,jogos betano,1600,71
+Betano,apk betano,1600,53
+Betano,betano. com,1600,76
+Betano,betano baixar play store,1600,65
+Betano,instalar betano,1500,65
+Betano,baixar o betano,1500,57
+Betano,baixar aplicativo da betano,1400,67
+Betano,baixar betano ios,1400,61
+Betano,betano tigrinho,1400,50
+Betano,betano online,1300,60
+Betano,betano com,1300,76
+Betano,www betano bet br,1300,74
+Betano,betano jogo,1300,66
+Betano,betano.com login,1200,80
+Betano,betano entrar login,1200,70
+Betano,betano com login,1200,73
+Betano,́betano,1200,80
+Betano,link betano,1200,77
+Betano,br betano.com.br,1200,68
+Betano,a betano,1200,76
+Betano,baixar o aplicativo da betano,1100,70
+Betano,betano.com app,1100,72
+Betano,betano nacional,1100,71
+Betano,baixar o aplicativo betano,1000,70
+Betano,betano esportivo,1000,71
+Betano,betanohttps //www.betano.bet.brbetano,1000,75
+Betano,jogo do betano,1000,73
+Betano,www.betano.com,1000,72
+Betano,betano bet365,1000,66
+Betano,betano jogos online,1000,76
+Betano,futebol betano,1000,74
+Betano,"betano,",1000,59
+Betano,betano.bet.b,900,68
+Betano,entra na betano,900,36
+Betano,aplicativo do betano,900,64
+Betano,betano app login,900,67
+Betano,tigrinho betano,900,65
+Betano,.betano,900,68
+Betano,betano l,900,78
+Betano,betano entra,900,70
+Betano,www.betano.com app,800,73
+Betano,br.betano.com,800,62
+Betano,betano.com.br,800,75
+Betano,betano brasil app,800,63
+Betano,betano.com.,800,81
+Betano,betano mobile,800,75
+Betano,sport betano,800,72
+Betano,betano empresa,800,63
+Betano,betano ios,700,67
+Betano,betano[,700,68
+Betano,betano pt,700,72
+Betano,betano..,700,68
+Betano,aplicativo betano baixar,700,64
+Betano,conta betano,600,33
+Betano,entra betano,600,62
+Betano,logo betano,600,1
+Betano,betano entrar na minha conta,600,77
+Betano,betano a,600,67
+Betano,site betano oficial,600,75
+Betano,jogos de hoje betano,600,69
+Betano,bolao betano flamengo,600,0
+Betano,betano cassino ao vivo,600,68
+Betano,betano jogos de hoje,600,27
+Betano,betano .com .br,600,77
+Betano,betano link,600,79
+Betano,site do betano,600,72
+Betano,betano baixar aplicativo,600,68
+Betano,betano br entrar,600,73
+Betano,betano do brasil,600,71
+Betano,betano..com,600,77
+Betano,betano com br,500,70
+Betano,betano.login,500,41
+Betano,entrar no betano,500,63
+Betano,betano login baixar,500,68
+Betano,www.betano .com.br,500,76
+Betano,www betano.com,500,73
+Betano,betano login entrar na minha conta agora site login,450,71
+Betano,betano login futebol,450,0
+Betano,banca betano,450,69
+Betano,link do betano,450,74
+Betano,"betano,com",450,81
+Betano,link da betano,400,75
+Betano,jogar betano,400,59
+Betano,site oficial da betano,400,72
+Betano,plataforma da betano,400,65
+Betano,https //br.betano.com,350,79
+Betano,betano game,350,70
+Betano,betano tv ao vivo,350,56
+Betano,jogo de betano,350,64
+Betano,google betano,350,62
+Betano,app betano atualizado,350,73
+Betano,betano sports,350,61
+Betano,na betano,350,68
+Betano,betano esportes,350,47
+Betano,criar conta betano,300,44
+Betano,acessar betano,300,28
+Betano,betano esporte bet,300,61
+Betano,betano portugal,300,65
+Betano,betano.entrar,300,64
+Betano,betano 365 login,300,78
+Betano,betano betano betano,300,63
+Betano,minha conta betano,300,35
+Betano,betano brasil login,300,42
+Betano,betano . com,300,69
+Betano,cadastro betano,300,53
+Betano,br betano .com,250,71
+Betano,betano futebol ao vivo,250,58
+Betano,jogar na betano,250,61
+Betano,betano criar conta,250,18
+Betano,www betano login,250,75
+Betano,betano atualizado,250,70
+Betano,b betano,250,71
+Betano,cassino online betano,250,74
+Betano,br.betano .com,250,67
+Betano,simbolo betano,250,36
+Betano,betano 777,250,69
+Betano,site oficial betano,250,69
+Betano,betano.co.,250,43
+Betano,betano .com.br,250,51
+Betano,betano odds,250,53
+Betano,betano.m,250,57
+Betano,br. betano.com,250,57
+Betano,o betano,250,67
+Betano,betano p,200,69
+Betano,sporting betano,200,60
+Betano,betano aviator login,200,82
+Betano,br betano app,200,57
+Betano,betano app entrar,200,70
+Betano,br. betano,200,63
+Betano,betano login br,200,72
+Betano,br betano com,200,72
+Betano,betano entrar conta,200,16
+Betano,esporte bet betano,200,60
+Betano,betano jogar,200,61
+Betano,betano acessar,200,42
+Betano,abrir betano,200,50
+Betano,entrar no aplicativo betano,200,52
+Betano,odds betano,200,53
+Betano,bet.betano,200,60
+Betano,br .betano.com,200,66
+Betano,aviator betano baixar,200,23
+Betano,betano slots,200,65
+Betano,betano.br,150,29
+Betano,jogo betano cassino,150,69
+Betano,cadastrar na betano,150,35
+Betano,betano de,150,60
+Betano,plataforma de jogos betano,150,52
+Betano,www.betano.com.br,150,65
+Betano,betano.l,150,62
+Betano,bets betano,150,53
+Betano,www betano.com.br,150,60
+Betano,betano.com casino,150,77
+Betano,betano jogo online,150,68
+Betano,betano loguin,150,43
+Betano,betano original,150,64
+Betano,betano app online,150,62
+Betano,betano online betting,150,71
+Betano,betano.c,150,74
+Betano,betano.com br,150,55
+Betano,marca betano,150,66
+Betano,entra no betano,150,31
+Betano,jogos betano hoje,150,72
+Betano,betano b,150,59
+Betano,betano m,150,68
+Betano,betano registo,150,46
+Betano,br.betano app,150,68
+Betano,betano live,150,69
+Betano,casino online betano,150,70
+Betano,entrar no site da betano,100,64
+Betano,betano.net,100,67
+Betano,betano.brasil,100,57
+Betano,betano entrar na conta,100,42
+Betano,betano bet 365,100,64
+Betano,login da betano,100,56
+Betano,betano sport,100,69
+Betano,br..betano.com,100,61
+Betano,betano net,100,78
+Betano,betano.combr,100,60
+Betano,betano.cok,100,65
+Betano,betano cadastrar,100,40
+Betano,br.betano.com baixar,100,76
+Betano,br betano cassino,100,75
+Betano,app betano oficial,90,76
+Betano,criar conta na betano,90,57
+Betano,betano fazer login,90,69
+Betano,betano api,90,0
+Betano,cadastrar betano,90,35
+Betano,site da betano oficial,90,71
+Betano,betano .br,90,61
+Betano,betano.ckm,90,48
+Betano,betano f,90,62
+Betano,www.betano.com.b,90,62
+Betano,betano br login,90,76
+Betano,betano oficial site,80,68
+Betano,betano google,80,77
+Betano,betano tv,80,63
+Betano,br.betano. com,80,31
+Betano,betano fortune tiger,80,61
+Betano,betano.cim,80,69
+Betano,betano e,80,68
+Betano,betano.vom,80,52
+Betano,betano jogos de cassino,70,72
+Betano,betano 1,70,44
+Betano,entrar na conta betano,70,58
+Betano,jogo betano online,70,79
+Betano,betano sport bets,70,64
+Betano,be betano,70,76
+Betano,betano br.com,70,51
+Betano,jogos do betano,70,69
+Betano,grupo betano,70,33
+Betano,betano.xom,70,73
+Betano,betano conta,60,48
+Betano,betano login.,60,49
+Betano,betano baixar pc,60,59
+Betano,betano login entrar na minha conta agora,60,61
+Betano,betano - online betting,60,67
+Betano,joga betano,60,66
+Betano,betano download pc,60,64
+Betano,betano apuestas,60,75
+Betano,jogo online betano,60,68
+Betano,login betano entrar,60,64
+Betano,slot betano,60,65
+Betano,@betano,60,67
+Betano,betano.com cassino,50,73
+Betano,betano.cpm,50,65
+Betano,betano registration,50,45
+Betano,jogos betano cassino,50,70
+Betano,betano iniciar sessão,50,68
+Betano,beta betano,50,62
+Betano,banco betano,50,30
+Betano,betano simulador,50,62
+Betano,joguinho betano,40,66
+Betano,365 betano,40,76
+Betano,betano se cadastrar,40,12
+Betano,abrir conta na betano,40,39
+Betano,betano app pc,40,65
+Betano,betano.pt,40,69
+Betano,betano.c9m,40,75
+Betano,br betano.,40,61
+Betano,betano 360,40,31
+Betano,betano logim,40,71
+Betano,betano tiger,40,56
+Betano,como entrar na betano,40,55
+Betano,betano logi,40,71
+Betano,bet betano login,40,67
+Betano,betano wiki,40,26
+Betano,betano q,40,66
+Betano,betano win,30,67
+Betano,betano fifa,30,66
+Betano,betano - pesquisa google,30,70
+Betano,betano csgo,30,11
+Betano,betano.com.vr,30,0
+Betano,br.betano.,30,52
+Betano,abrir conta betano,30,62
+Betano,jogo de cassino betano,30,64
+Betano,o jogo betano,30,62
+Betano,betano romania,30,4
+Betano,fazer cadastro na betano,30,36
+Betano,betano sporting,30,26
+Betano,betano canada,20,24
+Betano,cadastrar no betano,20,35
+Betano,1+ betano,20,54
+Betano,betano wikipedia,20,19
+Betano,betano cl,20,69
+Betano,saite betano,20,57
+Betano,betano abrir conta,20,35
+Betano,br.betano.com app,20,69
+Betano,conta demo betano,20,58
+Betano,betano.com .,20,48
+Betano,betano cs:go,20,24
+Betano,betano bet br cassino live,10,0
+Betano,br betano com br,10,48
+Betano,tiger betano,10,62
+Betano,ww.betano,10,59
+Betano,1 betano,10,44
+Betano,best betano,10,70
+Betano,https //br.betano.com baixar,10,69
+Betano,betano 0,10,57
+Betano,live betano,10,70
+Betano,betano payment,10,10
+Betano,betano se,10,67
+Betano,baixar betano.com,10,72
+Betano,download betano casino apk,10,50
+Betano,loja betano,10,76
+Betano,betano ponto com,10,72
+Betano,br.com.betano,10,64
+Betano,baixar betano pc,10,59
+Betano,betano login facebook,10,2
+Betano,betano long,10,76
+Betano,betano.com entrar,10,81
+Betano,betano.com aviator,10,77
+Betino,betino,3500,16
+Betino,betino casino,80,0
+Betino,betino app,10,0
+Betino,betino apk,10,0
+Betino,betino bets,10,0
+Betnacional,betnacional betano,1700,73
+Betnacional,betano betnacional,200,69
+Betsson,betsson,33000,48
+Betsson,betsson brasil,1300,21
+Betsson,betsson casino,900,80
+Betsson,betsson app,600,47
+Betsson,betsson bonus,500,37
+Betsson,betsson poker,450,60
+Betsson,betsson casino bonus,350,68
+Betsson,betsson apostas,300,14
+Betsson,betsson bônus,300,48
+Betsson,betsson baixar,250,0
+Betsson,betsson login,250,58
+Betsson,bonus betsson,250,18
+Betsson,betsson apuestas,200,61
+Betsson,casino betsson,200,72
+Betsson,betsson online casino,200,70
+Betsson,betsson cadastro,200,9
+Betsson,app betsson brasil,200,1
+Betsson,betsson ao vivo,200,41
+Betsson,betsson casino online,200,61
+Betsson,betsson apk,200,5
+Betsson,betsson casinos,200,60
+Betsson,aplicativo betsson,150,0
+Betsson,baixar betsson,150,0
+Betsson,betsson app android,150,54
+Betsson,betsson argentina,150,70
+Betsson,betsson bingo,150,77
+Betsson,betsson bonus de boas vindas,150,28
+Betsson,betsson apostas grátis,150,24
+Betsson,betsson com,150,76
+Betsson,betsson aviator,150,48
+Betsson,bono betsson,150,56
+Betsson,betsson entrar,150,65
+Betsson,betsson logo,150,52
+Betsson,betsson bonus casino,150,36
+Betsson,betsson br,100,0
+Betsson,betsson brasil apk,100,0
+Betsson,betsson apostas esportivas,100,42
+Betsson,betsson group,100,70
+Betsson,betsson.,100,50
+Betsson,betsson cavalos,100,0
+Betsson,app betsson,100,12
+Betsson,aposta betsson,100,27
+Betsson,betsson futebol,100,33
+Betsson,betsson aposta,100,13
+Betsson,betsson 365,100,58
+Betsson,betsson mobile,100,41
+Betsson,betsson.com login,100,58
+Betsson,betsson cassino,100,46
+Betsson,betsson paga,90,31
+Betsson,betsson fantasy,90,0
+Betsson,betsson fc,90,4
+Betsson,betsson app download,90,42
+Betsson,betsson betting,80,77
+Betsson,betsson baixar em português,60,0
+Betsson,plataforma betsson,60,49
+Betsson,betsson.com,60,78
+Betsson,betsson android app,50,21
+Betsson,betsson live casino,40,77
+Betsson,betsson afiliados,40,8
+Betsson,liga 1 betsson,40,0
+Betsson,betsson baixar apk,30,45
+Betsson,betsson odds,30,55
+Betsson,betsson download,20,26
+Betsson,saque betsson,10,2
+Betsson,campeonato betsson,10,22
+Brazino777,casino brazino 777,10,0
+Cassino Pix,cassino pix,928000,55
+Cassino Pix,cassino pix bet,20000,43
+Cassino Pix,cassino pix login,9000,42
+Cassino Pix,cassino pix bônus,3000,51
+Cassino Pix,cassino pix e confiável,2200,37
+Cassino Pix,cassino pix é confiável,1900,31
+Cassino Pix,cassino pix plataforma,1400,52
+Cassino Pix,cassino pix paga mesmo,1200,56
+Cassino Pix,plataforma cassino pix,700,39
+Cassino Pix,cassino pix bet br,700,40
+Cassino Pix,free bet cassino pix,600,37
+Cassino Pix,cassino pix 20 reais,600,16
+Cassino Pix,cassino pix 1 real,600,48
+Cassino Pix,cassino pix.com,600,18
+Cassino Pix,cassino pix afiliado,150,49
+Cassino Pix,cassino pix .com,100,31
+Cassino Pix,jogos cassino pix,90,53
+Cassino Pix,cassino pix na hora,50,54
+Cassino Pix,cassino pix ninja crash,30,22
+Cassino Pix,cassino pix paga,20,45
+CassinoBet,cassino bet,158000,55
+CassinoBet,cassinobet,35000,25
+CassinoBet,cassino bet br,25000,22
+CassinoBet,cassino.bet.br,5300,67
+CassinoBet,cassino.bet,4100,32
+CassinoBet,cassino.bet.br é confiavel,3000,36
+CassinoBet,cassino bets,1700,19
+CassinoBet,cassino betão,800,34
+CassinoBet,um cassino bet,700,5
+CassinoBet,jogos cassino bet,600,26
+CassinoBet,cassino bet br é legalizado,600,61
+CassinoBet,jogo cassino bet,450,19
+CassinoBet,cassino.bet ratinho,450,0
+CassinoBet,cassino bet br é confiável,350,0
+CassinoBet,cassino.bet.,300,0
+CassinoBet,cassino bet .br,200,0
+CassinoBet,cassino bet com br,200,0
+CassinoBet,cassino bet br é confiavel,200,0
+CassinoBet,cassino bet br games pragmaticplay tigre sortudo,200,0
+CassinoBet,8 cassino.bet,200,0
+CassinoBet,cassino.bet é confiável,150,0
+CassinoBet,cassino.bet 365,150,69
+CassinoBet,cassino.bet br,150,0
+CassinoBet,cassinobet.,100,0
+CassinoBet,cassino.bet .br,100,0
+CassinoBet,cassino bet br e legalizado,80,0
+CassinoBet,www cassino bet br,70,0
+CassinoBet,https cassino bet br,60,0
+CassinoBet,wj cassino bet br,50,0
+CassinoBet,8 cassinobet,40,0
+CassinoBet,cassino bet br do ratinho,30,0
+CassinoBet,"cassino.bet,br",20,0
+CassinoBet,cassinobet br,20,0
+CassinoBet,cassino bet br games pragmatic play tigre sortudo,20,0
+CassinoBet,cassino bet br ratinho,10,0
+CassinoBet,cassinobet login,10,0
+CassinoBet,cassino bet com br do ratinho,10,0
+CassinoBet,cassino.bet reclame aqui,10,0
+CassinoBet,cassino bet br oficial,10,0
+CassinoBet,cupom cassino.bet,10,0
+CassinoBet,cassino.bet. br,10,0
+CassinoBet,cassino.bet logo,10,0
+CassinoBet,wj cassino.bet,10,0
+CassinoBet,cassino bet br reclame aqui,10,0
+CassinoBet,cassino bet app br,10,0
+EJ Cassino,ejcassino,12000,7
+EJ Cassino,ej cassino,8200,15
+EJ Cassino,ej cassino.com,250,12
+EJ Cassino,ejcassino com,70,0
+EJ Cassino,ejcassino.com,60,0
+EJ Cassino,ejcassino app,50,0
+EJ Cassino,ejcassino.,20,0
+EJ Cassino,ejcassino bet.com,10,0
+EstrelaBet,estrelabet bet br cassino online,10,0
+FG Cassino,fg jogo cassino,600,
+Galera.bet,https www galera bet br cassino,10,0
+Jogo da Abelha,jogo da abelha cassino,900,
+Jogoman,jogoman,2100,11
+NetBet,netbet,20000,77
+NetBet,netbet casino,700,80
+NetBet,netbet bônus,400,42
+NetBet,netbet login,350,75
+NetBet,netbet cassino,300,40
+NetBet,netbet brasil,250,3
+NetBet,netbet mobile,250,66
+NetBet,netbet casino bonus,200,25
+NetBet,netbet br,200,23
+NetBet,netbet apostas,200,30
+NetBet,netbet sports,200,73
+NetBet,netbet app,200,50
+NetBet,esporte netbet,150,73
+NetBet,netbet é confiavel,150,8
+NetBet,netbet sport,150,66
+NetBet,cassino netbet,150,63
+NetBet,casino netbet,150,61
+NetBet,netbet é confiável,100,8
+NetBet,app netbet,100,56
+NetBet,netbet com,100,79
+NetBet,br.netbet,90,34
+NetBet,netbet apk,90,45
+NetBet,netbet casino app,90,71
+NetBet,netbet ro casino,80,61
+NetBet,aplicativo netbet,60,30
+NetBet,baixar netbet,60,0
+NetBet,netbet paga,50,20
+NetBet,netbet casino login,50,78
+NetBet,cassino online netbet,40,76
+NetBet,netbet.com,40,85
+NetBet,br netbet,40,58
+NetBet,netbet entrar,40,75
+NetBet,netbet ro,30,52
+NetBet,netbet vegas,30,57
+NetBet,netbet aplicatie,20,4
+NetBet,netbet saque,10,22
+NetBet,netbet pariuri,10,72
+NetBet,cassino.netbet,10,65
+NetBet,netbet free bet,10,70
+NetBet,netbet conectare,10,30
+NetBet,casino.netbet,10,61
+NetBet,netbet pariuri sportive,10,43
+NetBet,netbet email,10,34
+NetBet,netbet chat,10,13
+NetBet,netbet games,10,59
+NetBet,netbet bet 10 get 40,10,41
+NN55,nn55.com plataforma,1100,17
+NN55,nn55 plataforma,600,17
+NN55,nn55 .com,30,3
+NN55,nn55 plataforma de jogos,20,12
+Novibet,novibet bet br cassino,10,0
+OCS Bet,ocs bet,7200,28
+OCS Bet,ocs bet net,6600,37
+OCS Bet,ocs bet-net,300,0
+Orozino,orozino,3900,36
+Orozino,orozino bet,700,0
+Orozino,orozino casino,200,0
+Orozino,orozino é confiável,150,0
+Orozino,orozino cassino,100,0
+Orozino,mart minas orozino teixeira,30,0
+Orozino,orozino login,30,0
+Orozino,orozino paga mesmo,10,0
+Orozino,orozino app,10,0
+Orozino,orozino teixeira,10,0
+Orozino,imagens de mart minas orozino teixeira,10,0
+Orozino,orozino bet é confiável,10,0
+Pixbet,pixbet cassino ao vivo,1200,30
+Pixbet,casino pixbet,800,21
+Plataforma Ouro,plataforma ouro,800,
+Portal Noca,portal noca,700,0
+Score Cassino,cassino score,47000,49
+Score Cassino,score cassino,3100,11
+Score Cassino,cassino scores,2800,36
+Score Cassino,cassino score wonderland,2100,11
+Score Cassino,cassino score adventure,1700,48
+Score Cassino,cassino escore,800,30
+Score Cassino,cassino score crazy time,700,74
+Score Cassino,score cassino wonderland,600,0
+Score Cassino,cassino scores crazy time,400,74
+Score Cassino,cassino score monopoly,400,0
+Score Cassino,cassino scores adventure,350,0
+Score Cassino,cassino score monopoly big baller,300,0
+Score Cassino,cassino score crazy,150,0
+Score Cassino,cassino scores big baller,100,0
+Score Cassino,cassino scores wonderland,90,0
+Score Cassino,cassino score adventures,80,0
+Score Cassino,crazy time cassino score,40,0
+Score Cassino,cassino score.,20,0
+Score Cassino,cassino score ice fishing,20,0
+Score Cassino,cassino score funk time,10,0
+Score Cassino,super colors cassino score,10,0
+Slot Agora,slot agora,2200,
+Sportingbet,sportingbet betano,50,65
