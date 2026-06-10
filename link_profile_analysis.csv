@@ -1,0 +1,100 @@
+brand,domain,domain_type,DR,organic_kw,traffic,ref_domains,ref_foll,ref_nofoll,ref_ips,subnets,backlinks,bl_followed,bl_nofollow,bl_301_redirect,bl_internal,outgoing_links,pct_followed,pct_301,likely_drop
+1win,1winpro.com.br,EMD local (.br),38.0,4,21,90,30,60,89,84,221,159,62,0,356,132,71.9,0.0,maybe
+1xBet,1xbet1.com.br,EMD local (.br),31.0,41,121,632,77,555,740,363,1748,238,1510,0,683,130,13.6,0.0,yes
+1xBet,1xbetonline.com.br,EMD local (.br),27.0,44,159,549,77,473,654,381,2044,446,1598,0,1877,217,21.8,0.0,yes
+20Bet,20bet-brasil.com,EMD geral (.com/.net/.bet),32.0,0,0,173,62,111,148,117,197,81,116,0,3,16,41.1,0.0,yes
+20Bet,20betsite.com,EMD geral (.com/.net/.bet),7.0,30,2089,498,49,449,587,293,1525,143,1382,0,222,47,9.4,0.0,yes
+22Bet,22bett.com.br,EMD local (.br),36.0,0,0,289,60,229,346,232,933,149,784,0,121,40,16.0,0.0,yes
+22Bet,brasil-22bet.com.br,EMD local (.br),0.9,10,102,74,7,67,74,67,177,21,156,0,256,42,11.9,0.0,maybe
+BC.Game,bcgame.lat,TLD barato,0.4,0,0,135,12,123,142,110,164,14,150,0,0,1,8.5,0.0,yes
+Bet365,bet365s.com.br,EMD local (.br),7.0,0,0,589,56,533,629,448,5544,80,5464,0,125,8,1.4,0.0,yes
+Bet7k,7k.cassino.br.com,subdomain-farm,90.0,0,0,110,25,85,120,103,217,30,187,1,4,0,13.8,0.5,yes
+Betano,betano.cassino.br.com,subdomain-farm,90.0,49,2688,863,320,546,889,643,3492,2267,1225,31,4,0,64.9,0.9,yes
+Betfair,betfairbrasil.com.br,EMD local (.br),3.7,14,1,183,30,153,163,128,332,47,285,0,993,160,14.2,0.0,yes
+BetFury,betfurycasino.com.br,EMD local (.br),9.0,2,0,51,24,27,61,57,885,698,187,0,18,24,78.9,0.0,no
+Betnacional,betnacionalbrasil.com,EMD geral (.com/.net/.bet),0.0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,no
+Betobet,betobet-brasil.com,EMD geral (.com/.net/.bet),0.1,6,4,182,28,154,171,133,272,40,232,0,1,0,14.7,0.0,yes
+Betsson,betsson-brasil.br.com,subdomain-farm,90.0,2,0,40,11,29,42,42,58,18,40,0,0,0,31.0,0.0,no
+Betsson,betssonbrasil.com.br,EMD local (.br),9.0,4,13,291,93,200,278,205,553,245,308,0,30142,4243,44.3,0.0,yes
+Betsson,betssoncassinobrasil.com,EMD geral (.com/.net/.bet),0.0,0,0,112,3,109,121,90,125,3,122,0,0,0,2.4,0.0,yes
+Betsson,betssons.br.com,subdomain-farm,90.0,0,0,25,19,6,25,25,43,36,7,0,0,0,83.7,0.0,no
+Betwinner,betwinnerbrasil.com.br,EMD local (.br),21.0,2,0,584,388,202,603,433,1159,855,304,0,3,0,73.8,0.0,yes
+Blaze,blaze-apostas-br.com,EMD geral (.com/.net/.bet),14.0,0,0,741,699,42,916,604,8438,8280,158,0,56,5,98.1,0.0,yes
+Blaze,blazeaposta.org,EMD geral (.com/.net/.bet),27.0,0,0,109,70,40,84,69,130,88,42,0,3652,71,67.7,0.0,yes
+Blaze,blazeapostasonline.com.br,EMD local (.br),0.0,0,0,14,14,0,22,21,47,47,0,0,1,2,100.0,0.0,no
+Blaze,blazebrasil.com.br,EMD local (.br),0.7,0,0,371,14,357,367,299,838,17,821,0,10,0,2.0,0.0,yes
+Bodog,bodog-br.com,EMD geral (.com/.net/.bet),1.6,0,0,160,42,118,134,112,175,53,122,0,0,3,30.3,0.0,yes
+Bodog,bodogbr.bet,EMD geral (.com/.net/.bet),6.0,0,0,140,21,119,136,117,149,22,127,0,0,0,14.8,0.0,yes
+Brazino777,brazino-777.br.com,subdomain-farm,90.0,0,0,8,0,8,8,7,8,0,8,0,33,1,0.0,0.0,no
+Brazino777,brazino777.cassino.br.com,subdomain-farm,90.0,0,0,53,23,30,48,45,71,27,44,1,4,0,38.0,1.4,no
+Brazino777,brazino777br.com.br,EMD local (.br),7.0,2,4,30,18,12,29,28,89,76,13,0,93,48,85.4,0.0,no
+Brazino777,brazinos777.com.br,EMD local (.br),0.6,0,0,90,82,8,91,84,171,162,9,0,808,473,94.7,0.0,maybe
+Brazino777,b777.com.br,EMD local (.br),42.0,0,0,82,54,29,56,53,136,99,37,0,141,23,72.8,0.0,maybe
+Brazino777,brazino777-oficial.com.br,EMD local (.br),24.0,0,0,101,65,36,90,82,259,164,95,0,875,53,63.3,0.0,yes
+Brazino777,brazinoonline.com.br,EMD local (.br),22.0,0,0,1,1,0,1,1,1,1,0,0,202,0,100.0,0.0,no
+Cbet,cbet-br.com,EMD geral (.com/.net/.bet),39.0,0,0,4092,1110,2999,5084,2147,6130519,6105537,24982,0,0,0,99.6,0.0,yes
+Cbet,cbet-gg.br.com,subdomain-farm,90.0,7,17899,367,313,54,361,311,567,423,144,0,4,1,74.6,0.0,yes
+Esportes da Sorte,esporte-da-sorte.com,EMD geral (.com/.net/.bet),20.0,37,61805,350,70,280,379,240,1416,466,950,1,10623,2275,32.9,0.1,yes
+Esportes da Sorte,esportes-da-sortes.com,EMD geral (.com/.net/.bet),42.0,47,1109,496,227,269,447,273,1028,475,553,0,850,121,46.2,0.0,yes
+Esportes da Sorte,esportesdasorte-brasil.com.br,EMD local (.br),1.1,6,166,3,3,0,2,2,3,3,0,0,97,27,100.0,0.0,no
+Esportes da Sorte,esportesdasorte-oficial.com.br,EMD local (.br),6.0,51,23467,24,1,23,31,30,91,1,90,0,0,0,1.1,0.0,no
+Esportes da Sorte,esportesdasorte.br.com,subdomain-farm,90.0,132,2702,249,87,162,277,214,416,127,289,4,0,0,30.5,1.0,maybe
+Esportes da Sorte,esportesdasorte.net.br,EMD local (.br),2.6,36,19632,172,38,134,190,164,429,79,350,0,92,36,18.4,0.0,yes
+Esportes da Sorte,esportesdasortebr.br.com,subdomain-farm,90.0,196,4221,88,48,40,63,58,208,88,120,0,1083,345,42.3,0.0,maybe
+EstrelaBet,br-estrelabet.com,EMD geral (.com/.net/.bet),1.1,0,0,158,52,106,144,122,182,75,107,0,11,0,41.2,0.0,yes
+EstrelaBet,casinosucesso.com,EMD geral (.com/.net/.bet),32.0,0,0,450,260,193,446,345,725,382,343,0,2,2,52.7,0.0,yes
+EstrelaBet,estrelabetoficial.com.br,EMD local (.br),0.2,0,0,347,37,313,481,249,1607,45,1562,0,0,0,2.8,0.0,yes
+F12.bet,f12-bet-brasil-br.com,EMD geral (.com/.net/.bet),0.0,0,0,35,28,8,19,19,53,44,9,0,0,0,83.0,0.0,no
+F12.bet,f12.cassino.br.com,subdomain-farm,90.0,0,0,199,39,161,213,177,294,49,245,0,4,0,16.7,0.0,yes
+F12.bet,f12bet.net.br,EMD local (.br),0.2,13,38,416,27,389,414,331,1009,45,964,0,1,0,4.5,0.0,yes
+F12.bet,f12betbrasil.com.br,EMD local (.br),0.0,0,0,13,0,13,13,12,16,0,16,0,0,0,0.0,0.0,no
+Galera.bet,galera-bet-apostas.com,EMD geral (.com/.net/.bet),0.0,0,0,38,35,3,21,20,61,58,3,0,0,0,95.1,0.0,no
+Galera.bet,galera-bet-entrar.com,EMD geral (.com/.net/.bet),25.0,0,0,177,32,145,154,113,424,274,150,0,1143,291,64.6,0.0,yes
+Galera.bet,galera.cassino.br.com,subdomain-farm,90.0,0,0,70,29,41,73,71,163,33,130,1,4,0,20.2,0.6,maybe
+Galera.bet,galerabet-br.com.br,EMD local (.br),26.0,0,0,87,75,12,88,86,120,102,18,0,0,1,85.0,0.0,maybe
+Galera.bet,galerabet-casino-brazil.com,EMD geral (.com/.net/.bet),0.0,0,0,196,4,192,186,143,216,4,212,0,3,9,1.9,0.0,yes
+Galera.bet,galerabetapostas.com.br,EMD local (.br),0.1,0,0,248,28,220,295,174,1477,45,1432,0,0,0,3.0,0.0,yes
+Galera.bet,galerabetbrasil.com,EMD geral (.com/.net/.bet),0.6,0,0,179,4,175,186,129,382,11,371,0,101,0,2.9,0.0,yes
+GGBet,gg-bet-brasil.com,EMD geral (.com/.net/.bet),4.8,1,1,390,173,217,379,302,677,390,287,0,1,0,57.6,0.0,yes
+GGBet,ggbet-br.com.br,EMD local (.br),16.0,0,0,130,128,2,132,122,172,170,2,0,0,1,98.8,0.0,yes
+KTO,kto-bet.br.com,subdomain-farm,90.0,0,0,1,1,0,1,1,1,1,0,0,0,0,100.0,0.0,no
+KTO,kto-brasil-br.com,EMD geral (.com/.net/.bet),7.0,0,0,474,127,362,446,366,1151,246,905,0,119,26,21.4,0.0,yes
+KTO,kto.jogo.com.br,EMD local (.br),0.8,38,4517,21,1,20,28,28,88,1,87,0,1,1,1.1,0.0,no
+KTO,kto.uk.com,subdomain-farm,92.0,0,0,153,85,69,176,157,271,179,92,2,7,2,66.1,0.7,yes
+Linebet,linebet10.com,EMD geral (.com/.net/.bet),35.0,0,0,1096,600,528,1068,777,2885,1811,1074,273,804,322,62.8,9.5,yes
+Megapari,megapari.net.br,EMD local (.br),8.0,3,6,31,22,9,20,20,90,70,20,0,460,167,77.8,0.0,no
+Melbet,melbetbr.com,EMD geral (.com/.net/.bet),3.2,15,68,524,69,455,631,321,1881,122,1759,0,671,1552,6.5,0.0,yes
+Melbet,melbets.com.br,EMD local (.br),31.0,21,113,440,77,363,478,280,1224,366,858,0,497,135,29.9,0.0,yes
+Mostbet,en.mostbetbr.net,EMD geral (.com/.net/.bet),11.0,18,106,2032,1571,461,2613,312,4543,3496,1047,0,322,188,77.0,0.0,yes
+Mostbet,mostbet-br-login.com,EMD geral (.com/.net/.bet),8.0,0,0,364,249,117,346,297,508,364,144,5,0,11,71.7,1.0,yes
+Mostbet,mostbet-online.com.br,EMD local (.br),25.0,6,10,346,76,270,473,285,1080,124,956,0,0,0,11.5,0.0,yes
+Mostbet,mostbet-registration.com.br,EMD local (.br),0.0,0,0,67,24,43,55,52,180,38,142,0,93,14,21.1,0.0,maybe
+Mostbet,mostbet.br.com,subdomain-farm,90.0,9,19,1245,855,390,1613,297,2871,1872,999,0,154,592,65.2,0.0,yes
+Mostbet,mostbet.net.br,EMD local (.br),18.0,29,203,503,353,152,550,456,1639,1053,586,0,3,0,64.2,0.0,yes
+Mostbet,mostbetbrasil.com,EMD geral (.com/.net/.bet),8.0,15,71,464,37,427,451,264,703,83,620,0,0,0,11.8,0.0,yes
+Mostbet,mostbetpt.pro,EMD geral (.com/.net/.bet),19.0,0,0,1666,85,1582,2531,1030,101345,7101,94244,0,16,0,7.0,0.0,yes
+Mostbet,mostbett-bet.com,EMD geral (.com/.net/.bet),1.8,0,0,140,14,126,140,104,185,58,127,44,1,15,31.4,23.8,yes
+Novibet,novibet-site.com.br,EMD local (.br),0.4,0,0,16,4,12,16,16,21,4,17,0,195,105,19.0,0.0,no
+Novibet,novibeth.com,EMD geral (.com/.net/.bet),0.0,0,0,134,1,133,130,97,137,2,135,0,415,25,1.5,0.0,yes
+Parimatch,parimatch-apostas.com.br,EMD local (.br),8.0,0,0,77,5,72,72,65,230,7,223,0,0,1,3.0,0.0,maybe
+Parimatch,parimatchs.com.br,EMD local (.br),3.8,0,0,451,60,393,449,362,1545,138,1407,0,0,8,8.9,0.0,yes
+Pin-Up,pin-up-casino.com,EMD geral (.com/.net/.bet),42.0,0,0,819,284,547,792,586,3410,1817,1593,218,48,11,53.3,6.4,yes
+Pin-Up,pinupbet.com.br,EMD local (.br),11.0,35,310,266,3,263,337,251,1178,3,1175,0,0,0,0.3,0.0,yes
+Roobet,roobet.br.com,subdomain-farm,90.0,0,0,20,20,0,19,19,32,32,0,0,0,0,100.0,0.0,no
+Sportaza,sportaza-brasil.com,EMD geral (.com/.net/.bet),8.0,1,6,424,292,132,419,329,1116,905,211,0,7,7,81.1,0.0,yes
+Sportaza,sportaza.one,TLD barato,34.0,0,0,180,1,179,242,181,681,3,678,0,99,3,0.4,0.0,yes
+Sportingbet,sporting-bet.br.com,subdomain-farm,90.0,1,0,1,1,0,1,1,1,1,0,0,0,0,100.0,0.0,no
+Sportingbet,sportingbetbr.com.br,EMD local (.br),0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,no
+Sportingbet,sportingbetcasino.com.br,EMD local (.br),8.0,0,0,77,70,7,76,71,97,86,11,0,0,10,88.7,0.0,maybe
+Sportingbet,sportingbetn.com,EMD geral (.com/.net/.bet),0.0,3,1,138,0,138,127,99,143,0,143,0,121,0,0.0,0.0,yes
+Stake,stake-brazil-casino.com,EMD geral (.com/.net/.bet),0.0,0,0,72,3,70,66,60,88,3,85,0,79,7,3.4,0.0,maybe
+Stake,stake-brazil.net,EMD geral (.com/.net/.bet),20.0,0,0,200,58,142,149,117,223,77,146,0,0,0,34.5,0.0,yes
+Stake,stake.anjeangola.org,EMD geral (.com/.net/.bet),0.0,0,0,59,13,46,55,54,77,19,58,0,5,0,24.7,0.0,no
+Stake,stake.app.br,EMD local (.br),0.0,0,0,7,0,7,7,7,8,0,8,0,0,0,0.0,0.0,no
+Stake,stakecasino.com.br,EMD local (.br),30.0,0,0,63,7,56,76,67,143,10,133,0,122,9,7.0,0.0,maybe
+Superbet,super-bet.br.com,subdomain-farm,90.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no
+Superbet,superbet.app.br,EMD local (.br),0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no
+Superbet,superbetapp.net,EMD geral (.com/.net/.bet),17.0,3,8,752,37,718,742,516,63232,591,62641,0,140,20,0.9,0.0,yes
+Vai de Bet,vai-de-bet.br.com,subdomain-farm,90.0,1,1483,1276,853,441,1353,864,6640,4773,1867,0,280,68,71.9,0.0,yes
+Vai de Bet,vaidebet-brazil.com,EMD geral (.com/.net/.bet),7.0,7,42,150,0,150,164,128,218,0,218,0,0,0,0.0,0.0,yes
+Vai de Bet,vaidebetpt.com,EMD geral (.com/.net/.bet),3.6,46,205,427,43,386,516,276,459351,458245,1106,0,15164,2315,99.8,0.0,yes
