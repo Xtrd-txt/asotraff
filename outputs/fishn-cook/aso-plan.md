@@ -191,7 +191,46 @@ One variable per test. Ship the winner, then iterate.
 
 ---
 
-## 9. Launch checklist (condensed)
+## 9. Notes for App Review (App Store Connect → App Review Information → Notes)
+
+```
+Thank you for reviewing Fish'n Cook.
+
+Fish'n Cook is a fish & seafood recipe book. Users can browse and search recipes, follow step-by-step cooking instructions, use a built-in cooking timer, and save recipes to a Favorites list.
+
+KEY FACTS FOR REVIEW:
+
+1. COMPLETELY FREE — The app contains no paid subscriptions, no in-app purchases, and no locked or premium content. Every recipe and feature is available to all users immediately after install.
+
+2. NO ADVERTISING — The app displays no ads and integrates no advertising SDKs or ad networks.
+
+3. NO DATA COLLECTION — The app does not collect, store, or transmit any user information. There is no account creation, no login, no registration, and no analytics or tracking SDKs. The privacy nutrition label is "Data Not Collected." Favorites are stored locally on the device only.
+
+4. NO ACCOUNT NEEDED TO TEST — No demo credentials are required. All functionality is accessible immediately on first launch.
+
+HOW TO TEST THE MAIN FEATURES:
+- Search: use the search bar on the main screen (e.g., type "salmon").
+- Step-by-step guide: open any recipe and follow the numbered steps.
+- Timer: start the cooking timer from within a recipe's steps.
+- Favorites: tap the heart/save icon on any recipe, then find it in the Favorites tab.
+
+Please contact us at the support email on file with any questions. Thank you!
+```
+
+(~1,300 chars; limit 4,000.)
+
+Consistency requirements — these claims must match the rest of the submission:
+- Privacy nutrition label must be set to **"Data Not Collected"** in App Store Connect.
+- App Privacy section: answer "No" to data collection during the privacy questionnaire.
+- A privacy policy URL is still mandatory even when collecting nothing — it can be a
+  one-page statement saying the app collects no data.
+- Verify no bundled SDK quietly collects data (crash reporters, analytics in
+  third-party packages) — if one does, the "Data Not Collected" label would be
+  inaccurate, which is a rejection/removal risk.
+- If the rating prompt uses Apple's `SKStoreReviewController`, that's fine — it's
+  Apple's own UI and collects nothing on your behalf.
+
+## 10. Launch checklist (condensed)
 
 - [ ] All metadata fields filled to limits (validated above)
 - [ ] 6.7", 6.1" screenshot sets (iPad set if supporting iPad — recipe apps get real iPad traffic)
@@ -203,7 +242,7 @@ One variable per test. Ship the winner, then iterate.
 - [ ] Soft-launch option: AU/NZ/CA first to tune conversion before US push
 - [ ] Day 1–14: daily check of keyword ranks (fish recipes, seafood recipes, salmon recipes, fish cookbook, cook your catch), impressions, and conversion in App Analytics
 
-## 10. KPIs (first 90 days)
+## 11. KPIs (first 90 days)
 
 | Metric | Target |
 |---|---|
