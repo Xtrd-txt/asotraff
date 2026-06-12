@@ -87,33 +87,37 @@ Singular forms only, no spaces after commas, no words already in title/subtitle,
 no "app"/"free"/category name (wasted or disallowed), no competitor brand names
 (rejection risk).
 
-### Full description (~1,900 chars; description is not keyword-indexed on iOS — written for conversion)
+### Full description (1,900/4,000 chars; description is not keyword-indexed on iOS — written for conversion)
+
+Based on the actual feature set: recipe book, search, cooking timer,
+step-by-step guides, save favorites. Do not list features the app doesn't have.
 
 ```
-Fish'n Cook is the easiest way to cook fish and seafood with confidence — whether it came from the market, the fishmonger, or your own line.
+Fish'n Cook is the easiest way to cook fish and seafood with confidence. One app, hundreds of fish recipes, and everything you need to get dinner right: search, step-by-step guides, a built-in cooking timer, and your own favorites collection.
 
-Most recipe apps treat fish as an afterthought. Fish'n Cook is built for it: every recipe is designed around the fish, with the timing, temperature, and technique that seafood actually needs. No more overcooked salmon or rubbery shrimp.
+Most recipe apps treat fish as an afterthought. Fish'n Cook is built for it — every recipe is written around the fish, with the timing and technique seafood actually needs. No more overcooked salmon or rubbery shrimp.
 
-WHAT YOU GET
-• Step-by-step recipes for salmon, tuna, shrimp, cod, trout, halibut, tilapia and dozens more species
-• Every method covered: grilling, baking, pan-frying, steaming, smoking, raw preparations
-• Clear photos for every step — know exactly what "done" looks like
-• Cook-your-catch guides: clean, fillet, and cook what you bring home
-• Smart substitutions — don't have cod? See which fish swap in without ruining the dish
-• Weeknight filters: quick dinners ready in under 30 minutes
-• Healthy, pescatarian, and family-friendly collections
-• Built-in timers tuned to fish thickness, not guesswork
-• Shopping lists generated from any recipe
-• Works offline — at the lake, on the boat, or at the grill
+FIND THE RIGHT RECIPE FAST
+Search the whole cookbook in seconds. Look up a species you bought (salmon, cod, shrimp, trout), a dish you're craving (chowder, fish tacos, grilled tuna), or whatever fits tonight — and start cooking.
 
-FOR ANGLERS
-Caught it? Cook it. Fish'n Cook tells you what to do with your catch from the moment it leaves the water: handling, cleaning, filleting, and species-specific recipes that make your catch the best meal of the trip.
+FOLLOW ALONG, STEP BY STEP
+Every recipe is broken into clear, numbered steps so you always know what to do next. No wall-of-text instructions, no scrolling back and forth with wet hands — one step at a time, from prep to plate.
 
-FOR HOME COOKS
-Fish is the healthiest protein most people are afraid to cook. Our recipes remove the fear: exact timings, visual doneness cues, and foolproof techniques mean perfect results from your very first try.
+NAIL THE TIMING
+Fish is unforgiving — a minute too long makes the difference. The built-in cooking timer keeps you on track right inside the recipe, so you never overcook your fillet while hunting for the kitchen clock.
 
-EAT MORE FISH
-Heart-healthy, high-protein, quick to cook — there's no better weeknight dinner. Fish'n Cook makes it the easiest one too.
+SAVE YOUR FAVORITES
+Found a keeper? Save it to your favorites and build your personal go-to collection — weeknight staples, special-occasion dishes, and the recipes your family asks for again and again, always one tap away.
+
+WHY FISH'N COOK
+• A dedicated fish & seafood cookbook — not a generic recipe app
+• Fast search across every recipe
+• Step-by-step instructions anyone can follow
+• Built-in timer for perfectly cooked fish
+• Favorites — your personal recipe collection
+• Recipes for grilling, baking, pan-frying and more
+
+Fish is the healthiest protein most people are afraid to cook. Fish'n Cook removes the fear — clear steps, exact timing, perfect results from your very first try.
 
 Download Fish'n Cook and never wonder what to do with fish again.
 ```
@@ -135,10 +139,10 @@ readable at 60px. Avoid text in the icon. Test "fish on grill" vs "fish + fork".
 
 **Screenshots (first 3 carry ~90% of weight):**
 1. Hero: finished dish + caption "Perfect fish, every time"
-2. Step-by-step view + caption "Know exactly when it's done"
-3. Species browser + caption "Salmon to snapper — 40+ species"
-4. Catch-and-cook guide + caption "Caught it? Cook it."
-5. Weeknight filter + caption "Dinner in under 30 minutes"
+2. Step-by-step view + caption "One clear step at a time"
+3. Built-in timer in a recipe + caption "Never overcook fish again"
+4. Search results + caption "Find any recipe in seconds"
+5. Favorites screen + caption "Save the keepers"
 
 Captions top-aligned, large type, device frame optional but consistent.
 
@@ -177,8 +181,8 @@ Promotional text is editable without an app update — rotate it for each window
 
 1. **Test 1 — Icon** (highest leverage): fish-only vs fish+pan. Run ≥2 weeks or
    until ~9,000 impressions/variant for ~10% lift detection at 80% power.
-2. **Test 2 — First screenshot**: finished-dish hero vs catch-and-cook hero.
-   This doubles as a positioning test (home cook vs angler).
+2. **Test 2 — First screenshot**: finished-dish hero vs timer-in-recipe hero.
+   Tests whether appetite appeal or the "never overcook fish" promise converts better.
 3. **Test 3 — Subtitle** (requires app update): Package 1 vs Package 2 subtitle.
    Judge by impression→install conversion AND keyword ranking movement
    (catch/angler combos), not conversion alone.
