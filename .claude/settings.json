@@ -1,0 +1,5 @@
+{
+  "enabledPlugins": {
+    "app@mintuz-claude-plugins": true
+  }
+}
