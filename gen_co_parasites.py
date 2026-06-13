@@ -30,6 +30,9 @@ STOP={"casino","casinos","online","en","vivo","gratis","bono","bonos","registro"
 "opiniones","retiro","retiros","deposito","promociones","codigo","promocional","oficial","sitio",
 "web","es","de","la","el","mi","cuenta","y","real","dinero","casa","mejor","mejores"}
 GENERIC={"play","casino","online","juego","apuesta","apuestas","bono","mejor","mejores","ruleta","slots"}
+OFFICIAL={"rushbet","codere","betsson","betplay","wplay","yajuego","luckia","bwin","sportium",
+"bet365","stake","bplay","fullreto","zamba","betano","rivalo","megapuesta"}
+JUNK={"alimentosdel","bitcoin","monopoly","montecarlo","aladdin","wonderland"}
 def brand_of(kw):
     toks=[t for t in re.split(r"[^a-z0-9]+",kw.lower()) if t and t not in STOP]
     b="".join(toks)
@@ -61,6 +64,9 @@ for kw,d in data.items():
         if brand not in hn: continue  # nao contem a marca -> nao e sateite da marca
         lab,suf=label_suf(dom)
         if lab==brand: continue  # nome registravel == marca -> dominio do operador (qualquer TLD)
+        if lab in OFFICIAL: continue          # operador conhecido (qualquer TLD)
+        if brand in JUNK: continue            # falso-positivo (nao e marca de cassino)
+        if dom.endswith((".uptodown.com",".softonic.com",".com.br")): continue  # app-dirs/outros
         by_kw.append([kw,d["vol"],d["kd"],brand,dom,pos,tr])
         dom_agg[dom][0].add(kw); dom_agg[dom][1]+=tr; dom_agg[dom][2].add(brand)
 
