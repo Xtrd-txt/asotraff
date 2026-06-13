@@ -44,6 +44,11 @@ def canon(b):
     for frag,name in CANON:
         if frag in b: return name
     return None
+ROOTS={"Rushbet":["rushbet"],"Betsson":["betsson"],"Bwin":["bwin"],"BetPlay":["betplay","bplay"],
+"1win":["1win"],"20bet":["20bet"],"Mostbet":["mostbet"],"BBRBet":["bbrbet"],"Stake":["stake"],
+"Pin-Up":["pinup"],"Wplay":["wplay"],"Codere":["codere"],"Rivalo":["rivalo"],"Colbet":["colbet"],
+"Zamba":["zamba"],"YaJuego":["yajuego"],"Melbet":["melbet"],"Luckia":["luckia"],"Sportium":["sportium"],
+"Megapuesta":["megapuesta"],"Fullreto":["fullreto"],"Betway":["betway"],"Bet365":["bet365"],"Betano":["betano"]}
 DATE=re.compile(r"\b(19|20)\d{2}\b|\b(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|setiembre|octubre|noviembre|diciembre|hoy|ayer|ma[nñ]ana|actualizado)\b")
 def is_date(kw): return bool(DATE.search(kw.lower()))
 INTENT=[(("registr","crear cuenta","abrir cuenta","inscrib","afili","registrate"),"Регистрация / создать аккаунт"),
@@ -76,11 +81,12 @@ for path in FILES:
         except: pos=999
         kwrows[kw].append((host(p[1]),pos,p[16]))
 
-def cls(dom,bt):
+def cls(dom,roots):
     if dom in PLAT or any(dom.endswith("."+x) for x in PLAT): return "platform"
     if dom in MEDIA or any(dom.endswith("."+x) for x in MEDIA): return "media"
-    hn=re.sub(r"[^a-z0-9]","",dom)
-    if bt in hn: return "official" if (label(dom)==bt or label(dom) in OFFICIAL) else "parasite"
+    hn=re.sub(r"[^a-z0-9]","",dom); lab=label(dom)
+    if any(rt.replace("-","") in hn for rt in roots):
+        return "official" if (lab in roots or lab in OFFICIAL) else "parasite"
     return "other"
 
 rows=[]
@@ -88,10 +94,11 @@ for kw,vol in kwvol.items():
     if is_date(kw): continue
     bt=brand_of(kw); br=canon(bt) if bt else None
     if not br: continue
+    roots=ROOTS.get(br,[bt])
     ones=[(d,t) for d,pos,t in kwrows[kw] if pos==1]
     org1=[d for d,t in ones if t=="Organic"]
     if not org1: continue
-    top1=org1[0]; ttype=cls(top1,bt)
+    top1=org1[0]; ttype=cls(top1,roots)
     if ttype=="official": continue            # oficial #1 -> nao e oportunidade
     beat = top1 if ttype=="parasite" else ""
     rows.append([br,kw,vol,kwkd[kw],top1,ttype,beat,intent_ru(kw,kwlang[kw])])
