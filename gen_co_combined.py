@@ -58,6 +58,7 @@ for path in FILES:
         if not b or b in JUNK: continue
         dom=host(p[1])
         if dom in PLAT or dom in MEDIA: continue  # so plataformas/midia; mantem tudo que ranqueia em CO
+        if dom.endswith((".softonic.com",".uptodown.com",".aptoide.com")) or any(x in dom for x in ("softonic.","uptodown.","aptoide.")): continue  # app-dirs fora
         hn=re.sub(r"[^a-z0-9]","",dom)
         if b not in hn: continue
         lab=label_suf(dom)
