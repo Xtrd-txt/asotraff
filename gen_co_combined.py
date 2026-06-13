@@ -57,7 +57,7 @@ for path in FILES:
         b=brand_of(kw)
         if not b or b in JUNK: continue
         dom=host(p[1])
-        if dom in PLAT or dom in MEDIA or dom.endswith((".uptodown.com",".softonic.com",".com.br")): continue
+        if dom in PLAT or dom in MEDIA: continue  # so plataformas/midia; mantem tudo que ranqueia em CO
         hn=re.sub(r"[^a-z0-9]","",dom)
         if b not in hn: continue
         lab=label_suf(dom)
