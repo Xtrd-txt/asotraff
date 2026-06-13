@@ -94,17 +94,23 @@ for br,d in B.items():
     best_par=min(d["paras"].values()) if d["paras"] else 99
     hk=d["headkw"][0]; top1=d["top1ex"].get(hk,"?")
     off_top1 = "yes" if top1=="official" else "no"
-    # ease score
+    # ease score (criterios do usuario: off NAO #1 + baixa saturacao + volume + CO)
     s=0
     s+= 3 if tvol>=20000 else 2 if tvol>=5000 else 1 if tvol>=1000 else 0
-    s+= 3 if npar<=1 else 2 if npar<=3 else 1 if npar<=5 else 0
-    s+= 2 if off_top1=="no" else 0
-    s+= 2 if best_par>3 else 1 if best_par<=3 and best_par>1 else 0
-    rows.append([br,tvol,nkw,npar,(best_par if best_par<99 else ""),top1,off_top1,s])
+    s+= 3 if npar<=2 else 2 if npar<=4 else 1 if npar<=6 else 0     # saturacao
+    s+= 4 if off_top1=="no" else 0                                  # oficial NAO #1 (peso alto)
+    s+= 2 if best_par>3 else 0                                      # nenhum parasita travou top-3
+    # verdict
+    if off_top1=="no" and npar<=2 and tvol>=1000: v="OTIMO (off nao #1 + livre + volume)"
+    elif off_top1=="no" and npar<=4: v="BOM (off nao #1, pouca saturacao)"
+    elif npar<=2 and tvol>=20000: v="ALTO VOLUME (off #1, mas SERP pouco saturado)"
+    elif npar>=6: v="SATURADO (evitar)"
+    else: v="medio"
+    rows.append([br,tvol,nkw,npar,(best_par if best_par<99 else ""),top1,off_top1,s,v])
 rows.sort(key=lambda x:(-x[7],-x[1]))
 with open("co_brand_opportunity.csv","w",newline="",encoding="utf-8") as f:
     w=csv.writer(f); w.writerow(["Brand","total_volume","n_keywords","parasite_domains_in_serp",
-        "best_parasite_position","top1_organic_type","official_is_top1","ease_score"]); w.writerows(rows)
-print(f"{'Brand':12}{'vol':>8}{'kw':>4}{'paras':>6}{'bestPos':>8}  top1={'':<10}offTop1  EASE")
-for br,tv,nk,np,bp,t1,ot,s in rows:
-    print(f"  {br:12}{tv:>8}{nk:>4}{np:>6}{str(bp):>8}  {t1:<10}{ot:<7}  {s}")
+        "best_parasite_position","top1_organic_type","official_is_top1","ease_score","verdict"]); w.writerows(rows)
+print(f"{'Brand':12}{'vol':>8}{'paras':>6}{'offTop1':>8}{'EASE':>5}  verdict")
+for br,tv,nk,np,bp,t1,ot,s,v in rows:
+    print(f"  {br:12}{tv:>8}{np:>6}{ot:>8}{s:>5}  {v}")
