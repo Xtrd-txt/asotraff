@@ -3,9 +3,11 @@
 """CO 1win/20bet/bbrbet/stake...: acha keywords onde oficial NAO esta em #1
 (da p/ entrar), marca quem segura o #1 (parasita = perfivel), filtra datas,
 e da intent em RU p/ keywords em espanhol."""
-import csv, re, collections
-FILES=["/root/.claude/uploads/d028c233-fc6a-5e5a-9723-bd8bfecfe58d/2c033bbd-google_co_1win20betbbr_matchingterms_serps_20260613_225843.csv",
+import csv, re, collections, sys
+DEFAULT=["/root/.claude/uploads/d028c233-fc6a-5e5a-9723-bd8bfecfe58d/2c033bbd-google_co_1win20betbbr_matchingterms_serps_20260613_225843.csv",
        "/root/.claude/uploads/d028c233-fc6a-5e5a-9723-bd8bfecfe58d/e0559009-google_co_1win20betbbrb_relatedterms_serps_20260613_225836.csv"]
+OUT = sys.argv[1] if len(sys.argv)>1 else "co_easy_entry_keywords.csv"
+FILES = sys.argv[2:] if len(sys.argv)>2 else DEFAULT
 def num(s):
     s=str(s).strip().replace(",","")
     try:return float(s)
@@ -103,7 +105,7 @@ for kw,vol in kwvol.items():
     beat = top1 if ttype=="parasite" else ""
     rows.append([br,kw,vol,kwkd[kw],top1,ttype,beat,intent_ru(kw,kwlang[kw])])
 rows.sort(key=lambda x:(x[0].lower(),-x[2]))
-with open("co_easy_entry_keywords.csv","w",newline="",encoding="utf-8") as f:
+with open(OUT,"w",newline="",encoding="utf-8") as f:
     w=csv.writer(f); w.writerow(["Brand","keyword","volume","KD","top1_domain","top1_type","beat_parasite","user_intent_ru"]); w.writerows(rows)
 
 byb=collections.defaultdict(lambda:[0,0,0])
