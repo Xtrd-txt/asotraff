@@ -6,7 +6,6 @@ Features: point-to-point planning; Drive / Cycle / Walk modes; add stops 4 ways
 lines, live location and auto-zoom; stop list with drag-to-reorder, swipe-to-delete,
 clear-all; total distance, time estimate, and per-segment breakdown.
 Date: 2026-06-16. Platform: iOS. Locale: en-US.
-**Description: intentionally omitted (per request).**
 
 > Apple publishes no official search-volume data. Validate this keyword set against
 > Apple Search Ads keyword popularity (5–100) in App Store Connect before submitting.
@@ -71,6 +70,50 @@ Plan multi-stop routes offline — drive, cycle or walk. Add stops, reorder them
 ```
 169/170. Not keyword-indexed — written to convert. Leads with the offline +
 multi-stop + multimodal hooks, closes with the no-ads/free trust line.
+
+---
+
+## Description (limit 4,000; not keyword-indexed on iOS — written for conversion)
+
+```
+1ways is a fast, offline route planner for trips with multiple stops. Drop your points, pick how you travel, and instantly see the full route — total distance, estimated time, and a breakdown of every segment.
+
+No account. No internet required. Just open the app and start planning.
+
+PLAN MULTI-STOP ROUTES
+Build a route with as many stops as you need. 1ways draws your points and the lines between them on an interactive map, shows your live location, and auto-zooms to fit the whole trip on screen.
+
+ADD STOPS YOUR WAY
+Four ways to drop a stop:
+• Use your current GPS location
+• Tap anywhere on the map
+• Enter coordinates by hand
+• Pick from your saved favorites
+
+DRIVE, CYCLE OR WALK
+Choose your travel mode — Drive, Cycle, or Walk — and get distance and time estimates that match how you're actually moving.
+
+KNOW YOUR TRIP
+See the total distance and estimated time for the whole route, plus a detailed segment-by-segment breakdown so you know exactly what each leg costs.
+
+REORDER IN SECONDS
+Manage your stop list with simple gestures: drag to reorder, swipe to delete, or clear everything and start fresh.
+
+WORKS FULLY OFFLINE
+1ways plans routes and calculates distance and time without an internet connection — perfect for travel, remote areas, and saving data.
+
+WHY 1WAYS
+• Multi-stop route planning
+• Drive, cycle and walk modes
+• Add stops via GPS, map tap, coordinates or favorites
+• Total distance, time and per-segment breakdown
+• Drag-to-reorder and swipe-to-delete
+• Works 100% offline
+• No ads, no signup, no data collection
+
+Plan your next route the simple way. Download 1ways.
+```
+1,595/4,000 chars.
 
 ---
 
