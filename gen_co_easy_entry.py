@@ -32,13 +32,19 @@ STOP={"casino","casinos","online","en","vivo","gratis","bono","bonos","registro"
 "como","retirar","jugar","sacar","recargar","aviator","plinko","crash","movil","celular","aplicacion","apk"}
 GENERIC={"play","casino","online","juego","apuesta","apuestas","bono","ruleta","slots","virtual","gana","ganar"}
 OFFICIAL={"rushbet","codere","betsson","betplay","wplay","yajuego","luckia","bwin","sportium","bet365","stake",
-"bplay","fullreto","zamba","betano","rivalo","megapuesta","1win","mostbet","bbrbet","colbet","pinup","betway","20bet"}
+"bplay","fullreto","zamba","betano","rivalo","megapuesta","1win","mostbet","bbrbet","colbet","pinup","betway","20bet",
+"roobet","megapari","verde","verdecasino","nine","ninecasino","bizzo","bizzocasino","wazamba","mrbet","ggbet",
+"rabona","ivibet","boomerang","sportaza","leon","leonbet","spinbetter","cbet","betfury","vulkanvegas","melbet","betwinner","1xbet","22bet"}
 CANON=[("rusbet","Rushbet"),("rushet","Rushbet"),("rushbet","Rushbet"),("betson","Betsson"),("betsso","Betsson"),
 ("betsson","Betsson"),("wolay","Wplay"),("wply","Wplay"),("wplay","Wplay"),("betplay","BetPlay"),("bplay","BetPlay"),
 ("1win","1win"),("20bet","20bet"),("mostbet","Mostbet"),("bbrbet","BBRBet"),("rivalo","Rivalo"),("codere","Codere"),
 ("colbet","Colbet"),("pinup","Pin-Up"),("betway","Betway"),("sportium","Sportium"),("yajuego","YaJuego"),
 ("luckia","Luckia"),("bwin","Bwin"),("bet365","Bet365"),("megapuesta","Megapuesta"),("zamba","Zamba"),
-("fullreto","Fullreto"),("stake","Stake"),("betano","Betano"),("melbet","Melbet")]
+("fullreto","Fullreto"),("stake","Stake"),("betano","Betano"),("melbet","Melbet"),
+("roobet","Roobet"),("megapari","Megapari"),("verde","Verde"),("ninecasino","Nine"),("nine","Nine"),
+("bizzo","Bizzo"),("wazamba","Wazamba"),("mrbet","Mr.Bet"),("ggbet","GGbet"),("rabona","Rabona"),
+("ivibet","Ivibet"),("boomerang","Boomerang"),("sportaza","Sportaza"),("leon","Leon"),("spinbetter","Spinbetter"),
+("cbet","Cbet"),("betfury","Betfury"),("vulkanvegas","VulkanVegas"),("betwinner","Betwinner"),("22bet","22Bet"),("1xbet","1xBet")]
 def brand_of(kw):
     toks=[t for t in re.split(r"[^a-z0-9]+",kw.lower()) if t and t not in STOP]
     b="".join(toks); return None if len(b)<4 or b in GENERIC else b
@@ -50,7 +56,12 @@ ROOTS={"Rushbet":["rushbet"],"Betsson":["betsson"],"Bwin":["bwin"],"BetPlay":["b
 "1win":["1win"],"20bet":["20bet"],"Mostbet":["mostbet"],"BBRBet":["bbrbet"],"Stake":["stake"],
 "Pin-Up":["pinup"],"Wplay":["wplay"],"Codere":["codere"],"Rivalo":["rivalo"],"Colbet":["colbet"],
 "Zamba":["zamba"],"YaJuego":["yajuego"],"Melbet":["melbet"],"Luckia":["luckia"],"Sportium":["sportium"],
-"Megapuesta":["megapuesta"],"Fullreto":["fullreto"],"Betway":["betway"],"Bet365":["bet365"],"Betano":["betano"]}
+"Megapuesta":["megapuesta"],"Fullreto":["fullreto"],"Betway":["betway"],"Bet365":["bet365"],"Betano":["betano"],
+"Roobet":["roobet"],"Megapari":["megapari"],"Verde":["verde","verdecasino"],"Nine":["nine","ninecasino"],
+"Bizzo":["bizzo","bizzocasino"],"Wazamba":["wazamba"],"Mr.Bet":["mrbet"],"GGbet":["ggbet"],"Rabona":["rabona"],
+"Ivibet":["ivibet"],"Boomerang":["boomerang"],"Sportaza":["sportaza"],"Leon":["leon","leonbet"],
+"Spinbetter":["spinbetter"],"Cbet":["cbet"],"Betfury":["betfury"],"VulkanVegas":["vulkanvegas"],
+"Betwinner":["betwinner"],"22Bet":["22bet"],"1xBet":["1xbet"],"Melbet":["melbet"]}
 DATE=re.compile(r"\b(19|20)\d{2}\b|\b(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|setiembre|octubre|noviembre|diciembre|hoy|ayer|ma[nñ]ana|actualizado)\b")
 def is_date(kw): return bool(DATE.search(kw.lower()))
 INTENT=[(("registr","crear cuenta","abrir cuenta","inscrib","afili","registrate"),"Регистрация / создать аккаунт"),
