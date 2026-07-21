@@ -85,10 +85,10 @@ for key,label,val,unit,note in assumptions:
 r+=1
 sec_header(ws, r, "  DERIVED UNIT ECONOMICS (calculated)", 4, ACC2); r+=1
 derived = [
-    ("Payers per install", f"={name_cell['install_to_trial']}*{name_cell['trial_to_paid']}", "0.00%", "= trial% × paid%"),
-    ("Revenue per install (Y1)", None, '"$"0.000', "= payers/install × ARPPU"),
-    ("Break-even CPI (ROAS 100%)", None, '"$"0.000', "= revenue per install"),
-    ("Target CPI for min ROAS", None, '"$"0.000', "= rev/install ÷ min ROAS"),
+    ("Payers per install", f"={name_cell['install_to_trial']}*{name_cell['trial_to_paid']}", "0.00%", "trial% × paid%"),
+    ("Revenue per install (Y1)", None, '"$"0.000', "payers/install × ARPPU"),
+    ("Break-even CPI (ROAS 100%)", None, '"$"0.000', "revenue per install"),
+    ("Target CPI for min ROAS", None, '"$"0.000', "rev/install ÷ min ROAS"),
 ]
 pi_row = r  # payers per install row
 for i,(label,formula,fmt,note) in enumerate(derived):
