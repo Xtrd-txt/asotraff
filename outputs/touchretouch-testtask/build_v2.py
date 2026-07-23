@@ -169,6 +169,11 @@ def build_xlsx():
     ws4.cell(row=tot,column=2,value=f"=SUM(B{hr+1}:B{hr+len(mix)})").number_format="0%"; ws4.cell(row=tot,column=2).alignment=center; ws4.cell(row=tot,column=2).font=lbl
     ws4.cell(row=tot,column=3,value=f"=SUM(C{hr+1}:C{hr+len(mix)})").number_format='"$"#,##0'; ws4.cell(row=tot,column=3).alignment=center; ws4.cell(row=tot,column=3).font=lbl
     ws4.cell(row=tot,column=4,value=f"=SUM(D{hr+1}:D{hr+len(mix)})").number_format="0%"; ws4.cell(row=tot,column=4).alignment=center; ws4.cell(row=tot,column=4).font=lbl
+    for _ws in wb.worksheets:
+        for _row in _ws.iter_rows():
+            for _c in _row:
+                if isinstance(_c.value,str) and not _c.value.startswith("="):
+                    _c.value=_c.value.replace("\u2014","-").replace("\u2013","-").replace("\u2212","-")
     wb.save(BASE+"TouchRetouch_ROAS_Model.xlsx"); print("xlsx v2 ok")
 
 # ============================================================ DECK
@@ -316,9 +321,9 @@ def build_deck():
     # S9 experiments
     s=slide(); head(s,"5","Experiments backlog","Prioritised by $-unlock")
     data=[["Test","Target KPI","Success / Kill"],
-    ["1 · Brand bid cap + pause incrementality","Brand incremental installs","Organic backfills ≥70% → cut permanently / Kill: organic −>30%"],
+    ["1 · Brand bid cap + pause incrementality","Brand incremental installs","Organic backfills ≥70% → cut permanently / Kill: organic drops >30%"],
     ["2 · Tool-intent CPP conquest (per tool)","CPA(trial), tap→install CR","CPA ≤ target + incremental / Kill: CPA > target ×1.5"],
-    ["3 · Search Match isolation + negatives","Generic CPA","CPA −15% at equal volume / Kill: volume −>20%"],
+    ["3 · Search Match isolation + negatives","Generic CPA","CPA −15% at equal volume / Kill: volume drops >20%"],
     ["4 · AI-angle CPP + 'AI' badges","CR + trial→paid on AI terms","+10% CR & healthy trial→paid / Kill: no lift"],
     ["5 · Kill Product-Pages competitor","Wasted spend / CPA","Confirm CPA≫target over 1 wk → kill / Keep only if ≤ target"],
     ["6 · Geo trim (drop UZ/KG, expand T1)","Blended & US CPI","US CPI ≤ target / Kill: n/a (hygiene)"]]
@@ -356,6 +361,17 @@ def build_deck():
     p=t.add_paragraph(); par(p,"Stop overpaying to defend the brand; win the tool-intent searches with a page per tool — and the users who'd otherwise ask an AI — scaling to $70K at ≥125% by end of Q2.",20,WHT,bold=True,space=0,font="Georgia")
     t2=tf(s,Inches(0.75),Inches(5.2),Inches(11.8),Inches(1))
     par(t2.paragraphs[0],"Files: this deck · ROAS model (xlsx) · experiment briefs + measurement plan (doc).",13,WM,italic=True,space=0)
+    def _fixrun(r): r.text=r.text.replace("\u2014","-").replace("\u2013","-").replace("\u2212","-")
+    for _sl in prs.slides:
+        for _sh in _sl.shapes:
+            if _sh.has_text_frame:
+                for _p in _sh.text_frame.paragraphs:
+                    for _r in _p.runs: _fixrun(_r)
+            if _sh.has_table:
+                for _row in _sh.table.rows:
+                    for _cell in _row.cells:
+                        for _p in _cell.text_frame.paragraphs:
+                            for _r in _p.runs: _fixrun(_r)
     prs.save(BASE+"TouchRetouch_Deck.pptx"); print("deck v2 ok", len(prs.slides._sldIdLst),"slides")
 
 # ============================================================ DOC
@@ -400,7 +416,7 @@ def build_doc():
       "Move Search Match into its own Discovery campaign; add all Core exact keywords as exact negatives; audit the search-term report and negative out non-converting spend; harvest winners into Core weekly.",
       "Generic CPA; wasted-spend %; net new keywords harvested.",
       "3–4 weeks.",
-      "SUCCESS: generic CPA −15% at equal or higher volume → permanent. KILL: volume −>20% with no CPA gain → rebalance."),
+      "SUCCESS: generic CPA −15% at equal or higher volume → permanent. KILL: volume drops >20% with no CPA gain → rebalance."),
      ("EXP-4 · AI-angle CPP + 'AI' badges  (Priority: MEDIUM-HIGH)",
       "Our real competitor is increasingly ChatGPT/Gemini — some users open an LLM to edit a photo instead of finding a retoucher. If we position TouchRetouch as a purpose-built tool that does these exact jobs better than a general AI, we can capture that intent.",
       "Ship an AI-angle CPP ('AI, done right' — result-vs-prompt, sharper output) with 'AI' badges on the lead screenshots, served to ai-intent terms (ai photo editor, ai object remover). Compare against the default page and the plain tool CPP.",
@@ -449,6 +465,14 @@ def build_doc():
     h2("B.5 — Weekly report KPIs")
     for k in ["Spend","Impressions & TTR","CR (tap→install)","CPT & CPI","Installs — console vs MMP delta %","CPA(trial) and CPA(payer)","Trial→Paid %","ROAS — D7 (leading) and D30 (gate)","Organic rank on top tool terms (paid–organic sync)","Organic install share","Share of defended brand traffic"]:
         bul(k)
+    def _fixp(ps):
+        for _p in ps:
+            for _r in _p.runs:
+                _r.text=_r.text.replace("\u2014","-").replace("\u2013","-").replace("\u2212","-")
+    _fixp(d.paragraphs)
+    for _t in d.tables:
+        for _row in _t.rows:
+            for _cell in _row.cells: _fixp(_cell.paragraphs)
     d.save(BASE+"TouchRetouch_Experiments_Measurement.docx"); print("doc v2 ok")
 
 build_xlsx(); build_deck(); build_doc()
